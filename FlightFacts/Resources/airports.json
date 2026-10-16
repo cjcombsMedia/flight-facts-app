@@ -1,0 +1,1694 @@
+[
+ {
+  "id": "ATL",
+  "name": "Hartsfield\u2013Jackson",
+  "city": "Atlanta",
+  "country": "USA",
+  "lat": 33.6407,
+  "lon": -84.4277,
+  "elev": 313
+ },
+ {
+  "id": "DFW",
+  "name": "Dallas/Fort Worth",
+  "city": "Dallas",
+  "country": "USA",
+  "lat": 32.8998,
+  "lon": -97.0403,
+  "elev": 185
+ },
+ {
+  "id": "DEN",
+  "name": "Denver Intl",
+  "city": "Denver",
+  "country": "USA",
+  "lat": 39.8561,
+  "lon": -104.6737,
+  "elev": 1655
+ },
+ {
+  "id": "ORD",
+  "name": "O'Hare Intl",
+  "city": "Chicago",
+  "country": "USA",
+  "lat": 41.9742,
+  "lon": -87.9073,
+  "elev": 204
+ },
+ {
+  "id": "LAX",
+  "name": "Los Angeles Intl",
+  "city": "Los Angeles",
+  "country": "USA",
+  "lat": 33.9416,
+  "lon": -118.4085,
+  "elev": 38
+ },
+ {
+  "id": "JFK",
+  "name": "John F. Kennedy Intl",
+  "city": "New York",
+  "country": "USA",
+  "lat": 40.6413,
+  "lon": -73.7781,
+  "elev": 4
+ },
+ {
+  "id": "LGA",
+  "name": "LaGuardia",
+  "city": "New York",
+  "country": "USA",
+  "lat": 40.7769,
+  "lon": -73.874,
+  "elev": 7
+ },
+ {
+  "id": "EWR",
+  "name": "Newark Liberty",
+  "city": "Newark",
+  "country": "USA",
+  "lat": 40.6895,
+  "lon": -74.1745,
+  "elev": 5
+ },
+ {
+  "id": "LAS",
+  "name": "Harry Reid Intl",
+  "city": "Las Vegas",
+  "country": "USA",
+  "lat": 36.084,
+  "lon": -115.1537,
+  "elev": 665
+ },
+ {
+  "id": "MCO",
+  "name": "Orlando Intl",
+  "city": "Orlando",
+  "country": "USA",
+  "lat": 28.4312,
+  "lon": -81.3081,
+  "elev": 29
+ },
+ {
+  "id": "MIA",
+  "name": "Miami Intl",
+  "city": "Miami",
+  "country": "USA",
+  "lat": 25.7959,
+  "lon": -80.287,
+  "elev": 3
+ },
+ {
+  "id": "PHX",
+  "name": "Sky Harbor Intl",
+  "city": "Phoenix",
+  "country": "USA",
+  "lat": 33.4352,
+  "lon": -112.0101,
+  "elev": 347
+ },
+ {
+  "id": "IAH",
+  "name": "George Bush Intercontinental",
+  "city": "Houston",
+  "country": "USA",
+  "lat": 29.9902,
+  "lon": -95.3368,
+  "elev": 30
+ },
+ {
+  "id": "SFO",
+  "name": "San Francisco Intl",
+  "city": "San Francisco",
+  "country": "USA",
+  "lat": 37.6213,
+  "lon": -122.379,
+  "elev": 4
+ },
+ {
+  "id": "SEA",
+  "name": "Seattle\u2013Tacoma Intl",
+  "city": "Seattle",
+  "country": "USA",
+  "lat": 47.4502,
+  "lon": -122.3088,
+  "elev": 132
+ },
+ {
+  "id": "CLT",
+  "name": "Charlotte Douglas",
+  "city": "Charlotte",
+  "country": "USA",
+  "lat": 35.2144,
+  "lon": -80.9473,
+  "elev": 228
+ },
+ {
+  "id": "MSP",
+  "name": "Minneapolis\u2013St Paul",
+  "city": "Minneapolis",
+  "country": "USA",
+  "lat": 44.8848,
+  "lon": -93.2223,
+  "elev": 256
+ },
+ {
+  "id": "DTW",
+  "name": "Detroit Metropolitan",
+  "city": "Detroit",
+  "country": "USA",
+  "lat": 42.2162,
+  "lon": -83.3554,
+  "elev": 196
+ },
+ {
+  "id": "BOS",
+  "name": "Logan Intl",
+  "city": "Boston",
+  "country": "USA",
+  "lat": 42.3656,
+  "lon": -71.0096,
+  "elev": 6
+ },
+ {
+  "id": "PHL",
+  "name": "Philadelphia Intl",
+  "city": "Philadelphia",
+  "country": "USA",
+  "lat": 39.8744,
+  "lon": -75.2424,
+  "elev": 11
+ },
+ {
+  "id": "FLL",
+  "name": "Fort Lauderdale\u2013Hollywood",
+  "city": "Fort Lauderdale",
+  "country": "USA",
+  "lat": 26.0742,
+  "lon": -80.1506,
+  "elev": 3
+ },
+ {
+  "id": "BWI",
+  "name": "Baltimore/Washington",
+  "city": "Baltimore",
+  "country": "USA",
+  "lat": 39.1774,
+  "lon": -76.6684,
+  "elev": 44
+ },
+ {
+  "id": "DCA",
+  "name": "Reagan National",
+  "city": "Washington",
+  "country": "USA",
+  "lat": 38.8512,
+  "lon": -77.0402,
+  "elev": 4
+ },
+ {
+  "id": "IAD",
+  "name": "Dulles Intl",
+  "city": "Washington",
+  "country": "USA",
+  "lat": 38.9531,
+  "lon": -77.4565,
+  "elev": 95
+ },
+ {
+  "id": "SLC",
+  "name": "Salt Lake City Intl",
+  "city": "Salt Lake City",
+  "country": "USA",
+  "lat": 40.7899,
+  "lon": -111.9791,
+  "elev": 1288
+ },
+ {
+  "id": "SAN",
+  "name": "San Diego Intl",
+  "city": "San Diego",
+  "country": "USA",
+  "lat": 32.7338,
+  "lon": -117.1933,
+  "elev": 5
+ },
+ {
+  "id": "TPA",
+  "name": "Tampa Intl",
+  "city": "Tampa",
+  "country": "USA",
+  "lat": 27.9755,
+  "lon": -82.5332,
+  "elev": 8
+ },
+ {
+  "id": "PDX",
+  "name": "Portland Intl",
+  "city": "Portland",
+  "country": "USA",
+  "lat": 45.5898,
+  "lon": -122.5951,
+  "elev": 9
+ },
+ {
+  "id": "STL",
+  "name": "St. Louis Lambert",
+  "city": "St. Louis",
+  "country": "USA",
+  "lat": 38.7487,
+  "lon": -90.37,
+  "elev": 185
+ },
+ {
+  "id": "HNL",
+  "name": "Daniel K. Inouye Intl",
+  "city": "Honolulu",
+  "country": "USA",
+  "lat": 21.3245,
+  "lon": -157.9251,
+  "elev": 4
+ },
+ {
+  "id": "AUS",
+  "name": "Austin\u2013Bergstrom",
+  "city": "Austin",
+  "country": "USA",
+  "lat": 30.1975,
+  "lon": -97.6664,
+  "elev": 165
+ },
+ {
+  "id": "MSY",
+  "name": "Louis Armstrong",
+  "city": "New Orleans",
+  "country": "USA",
+  "lat": 29.9934,
+  "lon": -90.2581,
+  "elev": 1
+ },
+ {
+  "id": "RDU",
+  "name": "Raleigh\u2013Durham",
+  "city": "Raleigh",
+  "country": "USA",
+  "lat": 35.8776,
+  "lon": -78.7875,
+  "elev": 132
+ },
+ {
+  "id": "SMF",
+  "name": "Sacramento Intl",
+  "city": "Sacramento",
+  "country": "USA",
+  "lat": 38.6954,
+  "lon": -121.5908,
+  "elev": 8
+ },
+ {
+  "id": "SJC",
+  "name": "Mineta San Jose",
+  "city": "San Jose",
+  "country": "USA",
+  "lat": 37.3639,
+  "lon": -121.9289,
+  "elev": 19
+ },
+ {
+  "id": "SNA",
+  "name": "John Wayne",
+  "city": "Santa Ana",
+  "country": "USA",
+  "lat": 33.6757,
+  "lon": -117.8683,
+  "elev": 17
+ },
+ {
+  "id": "MCI",
+  "name": "Kansas City Intl",
+  "city": "Kansas City",
+  "country": "USA",
+  "lat": 39.2976,
+  "lon": -94.7139,
+  "elev": 308
+ },
+ {
+  "id": "CLE",
+  "name": "Cleveland Hopkins",
+  "city": "Cleveland",
+  "country": "USA",
+  "lat": 41.4117,
+  "lon": -81.8498,
+  "elev": 241
+ },
+ {
+  "id": "PIT",
+  "name": "Pittsburgh Intl",
+  "city": "Pittsburgh",
+  "country": "USA",
+  "lat": 40.4915,
+  "lon": -80.2329,
+  "elev": 367
+ },
+ {
+  "id": "CVG",
+  "name": "Cincinnati/N. Kentucky",
+  "city": "Cincinnati",
+  "country": "USA",
+  "lat": 39.0488,
+  "lon": -84.6678,
+  "elev": 271
+ },
+ {
+  "id": "IND",
+  "name": "Indianapolis Intl",
+  "city": "Indianapolis",
+  "country": "USA",
+  "lat": 39.7173,
+  "lon": -86.2944,
+  "elev": 241
+ },
+ {
+  "id": "CMH",
+  "name": "John Glenn Columbus",
+  "city": "Columbus",
+  "country": "USA",
+  "lat": 39.998,
+  "lon": -82.8919,
+  "elev": 247
+ },
+ {
+  "id": "BNA",
+  "name": "Nashville Intl",
+  "city": "Nashville",
+  "country": "USA",
+  "lat": 36.1263,
+  "lon": -86.6774,
+  "elev": 183
+ },
+ {
+  "id": "MEM",
+  "name": "Memphis Intl",
+  "city": "Memphis",
+  "country": "USA",
+  "lat": 35.0424,
+  "lon": -89.9767,
+  "elev": 104
+ },
+ {
+  "id": "OKC",
+  "name": "Will Rogers World",
+  "city": "Oklahoma City",
+  "country": "USA",
+  "lat": 35.3931,
+  "lon": -97.6007,
+  "elev": 395
+ },
+ {
+  "id": "ABQ",
+  "name": "Albuquerque Sunport",
+  "city": "Albuquerque",
+  "country": "USA",
+  "lat": 35.0402,
+  "lon": -106.6092,
+  "elev": 1632
+ },
+ {
+  "id": "TUS",
+  "name": "Tucson Intl",
+  "city": "Tucson",
+  "country": "USA",
+  "lat": 32.1161,
+  "lon": -110.941,
+  "elev": 806
+ },
+ {
+  "id": "ELP",
+  "name": "El Paso Intl",
+  "city": "El Paso",
+  "country": "USA",
+  "lat": 31.8072,
+  "lon": -106.3781,
+  "elev": 1206
+ },
+ {
+  "id": "BOI",
+  "name": "Boise Airport",
+  "city": "Boise",
+  "country": "USA",
+  "lat": 43.5644,
+  "lon": -116.2228,
+  "elev": 874
+ },
+ {
+  "id": "ANC",
+  "name": "Ted Stevens Anchorage",
+  "city": "Anchorage",
+  "country": "USA",
+  "lat": 61.1743,
+  "lon": -149.9962,
+  "elev": 45
+ },
+ {
+  "id": "FAI",
+  "name": "Fairbanks Intl",
+  "city": "Fairbanks",
+  "country": "USA",
+  "lat": 64.8151,
+  "lon": -147.856,
+  "elev": 132
+ },
+ {
+  "id": "OGG",
+  "name": "Kahului",
+  "city": "Maui",
+  "country": "USA",
+  "lat": 20.8986,
+  "lon": -156.4305,
+  "elev": 16
+ },
+ {
+  "id": "KOA",
+  "name": "Ellison Onizuka Kona",
+  "city": "Kona",
+  "country": "USA",
+  "lat": 19.7388,
+  "lon": -156.0456,
+  "elev": 14
+ },
+ {
+  "id": "LIH",
+  "name": "Lihue",
+  "city": "Kauai",
+  "country": "USA",
+  "lat": 21.976,
+  "lon": -159.339,
+  "elev": 45
+ },
+ {
+  "id": "RNO",
+  "name": "Reno\u2013Tahoe",
+  "city": "Reno",
+  "country": "USA",
+  "lat": 39.4991,
+  "lon": -119.7681,
+  "elev": 1345
+ },
+ {
+  "id": "BUF",
+  "name": "Buffalo Niagara",
+  "city": "Buffalo",
+  "country": "USA",
+  "lat": 42.9405,
+  "lon": -78.7322,
+  "elev": 222
+ },
+ {
+  "id": "JAX",
+  "name": "Jacksonville Intl",
+  "city": "Jacksonville",
+  "country": "USA",
+  "lat": 30.4941,
+  "lon": -81.6879,
+  "elev": 9
+ },
+ {
+  "id": "RSW",
+  "name": "Southwest Florida",
+  "city": "Fort Myers",
+  "country": "USA",
+  "lat": 26.5362,
+  "lon": -81.7552,
+  "elev": 9
+ },
+ {
+  "id": "PBI",
+  "name": "Palm Beach Intl",
+  "city": "West Palm Beach",
+  "country": "USA",
+  "lat": 26.6832,
+  "lon": -80.0956,
+  "elev": 6
+ },
+ {
+  "id": "SAT",
+  "name": "San Antonio Intl",
+  "city": "San Antonio",
+  "country": "USA",
+  "lat": 29.5337,
+  "lon": -98.4698,
+  "elev": 246
+ },
+ {
+  "id": "OMA",
+  "name": "Eppley Airfield",
+  "city": "Omaha",
+  "country": "USA",
+  "lat": 41.3032,
+  "lon": -95.8941,
+  "elev": 299
+ },
+ {
+  "id": "MKE",
+  "name": "Milwaukee Mitchell",
+  "city": "Milwaukee",
+  "country": "USA",
+  "lat": 42.9472,
+  "lon": -87.8966,
+  "elev": 220
+ },
+ {
+  "id": "DSM",
+  "name": "Des Moines Intl",
+  "city": "Des Moines",
+  "country": "USA",
+  "lat": 41.534,
+  "lon": -93.6631,
+  "elev": 292
+ },
+ {
+  "id": "GEG",
+  "name": "Spokane Intl",
+  "city": "Spokane",
+  "country": "USA",
+  "lat": 47.6199,
+  "lon": -117.5338,
+  "elev": 750
+ },
+ {
+  "id": "BZN",
+  "name": "Bozeman Yellowstone",
+  "city": "Bozeman",
+  "country": "USA",
+  "lat": 45.7776,
+  "lon": -111.153,
+  "elev": 1360
+ },
+ {
+  "id": "JAC",
+  "name": "Jackson Hole",
+  "city": "Jackson",
+  "country": "USA",
+  "lat": 43.6073,
+  "lon": -110.7377,
+  "elev": 1965
+ },
+ {
+  "id": "ASE",
+  "name": "Aspen/Pitkin County",
+  "city": "Aspen",
+  "country": "USA",
+  "lat": 39.2232,
+  "lon": -106.8687,
+  "elev": 2384
+ },
+ {
+  "id": "EGE",
+  "name": "Eagle County",
+  "city": "Vail",
+  "country": "USA",
+  "lat": 39.6426,
+  "lon": -106.9177,
+  "elev": 1985
+ },
+ {
+  "id": "PSP",
+  "name": "Palm Springs Intl",
+  "city": "Palm Springs",
+  "country": "USA",
+  "lat": 33.8297,
+  "lon": -116.5067,
+  "elev": 144
+ },
+ {
+  "id": "SBA",
+  "name": "Santa Barbara",
+  "city": "Santa Barbara",
+  "country": "USA",
+  "lat": 34.4262,
+  "lon": -119.8404,
+  "elev": 4
+ },
+ {
+  "id": "MRY",
+  "name": "Monterey Regional",
+  "city": "Monterey",
+  "country": "USA",
+  "lat": 36.587,
+  "lon": -121.8429,
+  "elev": 78
+ },
+ {
+  "id": "CHS",
+  "name": "Charleston Intl",
+  "city": "Charleston",
+  "country": "USA",
+  "lat": 32.8986,
+  "lon": -80.0405,
+  "elev": 14
+ },
+ {
+  "id": "SAV",
+  "name": "Savannah/Hilton Head",
+  "city": "Savannah",
+  "country": "USA",
+  "lat": 32.1276,
+  "lon": -81.2021,
+  "elev": 15
+ },
+ {
+  "id": "MYR",
+  "name": "Myrtle Beach Intl",
+  "city": "Myrtle Beach",
+  "country": "USA",
+  "lat": 33.6797,
+  "lon": -78.9283,
+  "elev": 8
+ },
+ {
+  "id": "RIC",
+  "name": "Richmond Intl",
+  "city": "Richmond",
+  "country": "USA",
+  "lat": 37.5052,
+  "lon": -77.3197,
+  "elev": 50
+ },
+ {
+  "id": "ORF",
+  "name": "Norfolk Intl",
+  "city": "Norfolk",
+  "country": "USA",
+  "lat": 36.8946,
+  "lon": -76.2012,
+  "elev": 8
+ },
+ {
+  "id": "ALB",
+  "name": "Albany Intl",
+  "city": "Albany",
+  "country": "USA",
+  "lat": 42.7483,
+  "lon": -73.8017,
+  "elev": 86
+ },
+ {
+  "id": "BDL",
+  "name": "Bradley Intl",
+  "city": "Hartford",
+  "country": "USA",
+  "lat": 41.9389,
+  "lon": -72.6832,
+  "elev": 53
+ },
+ {
+  "id": "PVD",
+  "name": "T.F. Green",
+  "city": "Providence",
+  "country": "USA",
+  "lat": 41.724,
+  "lon": -71.4283,
+  "elev": 17
+ },
+ {
+  "id": "PWM",
+  "name": "Portland Intl Jetport",
+  "city": "Portland ME",
+  "country": "USA",
+  "lat": 43.6462,
+  "lon": -70.3093,
+  "elev": 23
+ },
+ {
+  "id": "BUR",
+  "name": "Hollywood Burbank",
+  "city": "Burbank",
+  "country": "USA",
+  "lat": 34.2007,
+  "lon": -118.3587,
+  "elev": 236
+ },
+ {
+  "id": "OAK",
+  "name": "Oakland Intl",
+  "city": "Oakland",
+  "country": "USA",
+  "lat": 37.7213,
+  "lon": -122.221,
+  "elev": 2
+ },
+ {
+  "id": "ONT",
+  "name": "Ontario Intl",
+  "city": "Ontario",
+  "country": "USA",
+  "lat": 34.0559,
+  "lon": -117.6011,
+  "elev": 290
+ },
+ {
+  "id": "LGB",
+  "name": "Long Beach",
+  "city": "Long Beach",
+  "country": "USA",
+  "lat": 33.8177,
+  "lon": -118.1516,
+  "elev": 18
+ },
+ {
+  "id": "MEX",
+  "name": "Benito Ju\u00e1rez Intl",
+  "city": "Mexico City",
+  "country": "Mexico",
+  "lat": 19.4363,
+  "lon": -99.0721,
+  "elev": 2230
+ },
+ {
+  "id": "NLU",
+  "name": "Felipe \u00c1ngeles Intl",
+  "city": "Mexico City",
+  "country": "Mexico",
+  "lat": 19.7561,
+  "lon": -99.0155,
+  "elev": 2226
+ },
+ {
+  "id": "CUN",
+  "name": "Canc\u00fan Intl",
+  "city": "Canc\u00fan",
+  "country": "Mexico",
+  "lat": 21.0365,
+  "lon": -86.8771,
+  "elev": 6
+ },
+ {
+  "id": "GDL",
+  "name": "Miguel Hidalgo",
+  "city": "Guadalajara",
+  "country": "Mexico",
+  "lat": 20.5218,
+  "lon": -103.3111,
+  "elev": 1529
+ },
+ {
+  "id": "MTY",
+  "name": "Mariano Escobedo",
+  "city": "Monterrey",
+  "country": "Mexico",
+  "lat": 25.7785,
+  "lon": -100.1069,
+  "elev": 390
+ },
+ {
+  "id": "TIJ",
+  "name": "Tijuana Intl",
+  "city": "Tijuana",
+  "country": "Mexico",
+  "lat": 32.5411,
+  "lon": -116.9702,
+  "elev": 149
+ },
+ {
+  "id": "SJD",
+  "name": "Los Cabos Intl",
+  "city": "San Jos\u00e9 del Cabo",
+  "country": "Mexico",
+  "lat": 23.1518,
+  "lon": -109.7211,
+  "elev": 114
+ },
+ {
+  "id": "PVR",
+  "name": "Puerto Vallarta",
+  "city": "Puerto Vallarta",
+  "country": "Mexico",
+  "lat": 20.6801,
+  "lon": -105.2544,
+  "elev": 7
+ },
+ {
+  "id": "BJX",
+  "name": "Del Baj\u00edo",
+  "city": "Le\u00f3n/Guanajuato",
+  "country": "Mexico",
+  "lat": 20.9935,
+  "lon": -101.4808,
+  "elev": 1815
+ },
+ {
+  "id": "QRO",
+  "name": "Quer\u00e9taro Intl",
+  "city": "Quer\u00e9taro",
+  "country": "Mexico",
+  "lat": 20.6173,
+  "lon": -100.1856,
+  "elev": 1908
+ },
+ {
+  "id": "MID",
+  "name": "M\u00e9rida Intl",
+  "city": "M\u00e9rida",
+  "country": "Mexico",
+  "lat": 20.937,
+  "lon": -89.6577,
+  "elev": 11
+ },
+ {
+  "id": "CJS",
+  "name": "Abraham Gonz\u00e1lez",
+  "city": "Ciudad Ju\u00e1rez",
+  "country": "Mexico",
+  "lat": 31.6361,
+  "lon": -106.4288,
+  "elev": 1181
+ },
+ {
+  "id": "CUU",
+  "name": "Chihuahua Intl",
+  "city": "Chihuahua",
+  "country": "Mexico",
+  "lat": 28.7029,
+  "lon": -105.9646,
+  "elev": 1499
+ },
+ {
+  "id": "HMO",
+  "name": "Hermosillo Intl",
+  "city": "Hermosillo",
+  "country": "Mexico",
+  "lat": 29.0959,
+  "lon": -111.0478,
+  "elev": 57
+ },
+ {
+  "id": "MZT",
+  "name": "Mazatl\u00e1n Intl",
+  "city": "Mazatl\u00e1n",
+  "country": "Mexico",
+  "lat": 23.1614,
+  "lon": -106.2661,
+  "elev": 10
+ },
+ {
+  "id": "ACA",
+  "name": "Acapulco Intl",
+  "city": "Acapulco",
+  "country": "Mexico",
+  "lat": 16.7571,
+  "lon": -99.754,
+  "elev": 5
+ },
+ {
+  "id": "OAX",
+  "name": "Oaxaca Intl",
+  "city": "Oaxaca",
+  "country": "Mexico",
+  "lat": 16.999,
+  "lon": -96.7266,
+  "elev": 1520
+ },
+ {
+  "id": "YYZ",
+  "name": "Toronto Pearson",
+  "city": "Toronto",
+  "country": "Canada",
+  "lat": 43.6777,
+  "lon": -79.6248,
+  "elev": 173
+ },
+ {
+  "id": "YVR",
+  "name": "Vancouver Intl",
+  "city": "Vancouver",
+  "country": "Canada",
+  "lat": 49.1967,
+  "lon": -123.1815,
+  "elev": 4
+ },
+ {
+  "id": "YUL",
+  "name": "Montr\u00e9al\u2013Trudeau",
+  "city": "Montreal",
+  "country": "Canada",
+  "lat": 45.4706,
+  "lon": -73.7408,
+  "elev": 36
+ },
+ {
+  "id": "YYC",
+  "name": "Calgary Intl",
+  "city": "Calgary",
+  "country": "Canada",
+  "lat": 51.1315,
+  "lon": -114.0106,
+  "elev": 1084
+ },
+ {
+  "id": "YEG",
+  "name": "Edmonton Intl",
+  "city": "Edmonton",
+  "country": "Canada",
+  "lat": 53.3097,
+  "lon": -113.5801,
+  "elev": 723
+ },
+ {
+  "id": "YOW",
+  "name": "Ottawa Macdonald\u2013Cartier",
+  "city": "Ottawa",
+  "country": "Canada",
+  "lat": 45.3225,
+  "lon": -75.6692,
+  "elev": 114
+ },
+ {
+  "id": "YHZ",
+  "name": "Halifax Stanfield",
+  "city": "Halifax",
+  "country": "Canada",
+  "lat": 44.8808,
+  "lon": -63.5086,
+  "elev": 145
+ },
+ {
+  "id": "YQX",
+  "name": "Gander Intl",
+  "city": "Gander",
+  "country": "Canada",
+  "lat": 48.9369,
+  "lon": -54.5681,
+  "elev": 151
+ },
+ {
+  "id": "LHR",
+  "name": "Heathrow",
+  "city": "London",
+  "country": "UK",
+  "lat": 51.47,
+  "lon": -0.4543,
+  "elev": 25
+ },
+ {
+  "id": "LGW",
+  "name": "Gatwick",
+  "city": "London",
+  "country": "UK",
+  "lat": 51.1537,
+  "lon": -0.1821,
+  "elev": 62
+ },
+ {
+  "id": "MAN",
+  "name": "Manchester",
+  "city": "Manchester",
+  "country": "UK",
+  "lat": 53.3537,
+  "lon": -2.275,
+  "elev": 78
+ },
+ {
+  "id": "EDI",
+  "name": "Edinburgh",
+  "city": "Edinburgh",
+  "country": "UK",
+  "lat": 55.95,
+  "lon": -3.3725,
+  "elev": 41
+ },
+ {
+  "id": "DUB",
+  "name": "Dublin",
+  "city": "Dublin",
+  "country": "Ireland",
+  "lat": 53.4213,
+  "lon": -6.2701,
+  "elev": 74
+ },
+ {
+  "id": "SNN",
+  "name": "Shannon",
+  "city": "Shannon",
+  "country": "Ireland",
+  "lat": 52.7019,
+  "lon": -8.9248,
+  "elev": 14
+ },
+ {
+  "id": "CDG",
+  "name": "Charles de Gaulle",
+  "city": "Paris",
+  "country": "France",
+  "lat": 49.0097,
+  "lon": 2.5479,
+  "elev": 119
+ },
+ {
+  "id": "ORY",
+  "name": "Orly",
+  "city": "Paris",
+  "country": "France",
+  "lat": 48.7233,
+  "lon": 2.3794,
+  "elev": 89
+ },
+ {
+  "id": "NCE",
+  "name": "C\u00f4te d'Azur",
+  "city": "Nice",
+  "country": "France",
+  "lat": 43.6584,
+  "lon": 7.2159,
+  "elev": 4
+ },
+ {
+  "id": "AMS",
+  "name": "Schiphol",
+  "city": "Amsterdam",
+  "country": "Netherlands",
+  "lat": 52.3105,
+  "lon": 4.7683,
+  "elev": -3
+ },
+ {
+  "id": "FRA",
+  "name": "Frankfurt",
+  "city": "Frankfurt",
+  "country": "Germany",
+  "lat": 50.0379,
+  "lon": 8.5622,
+  "elev": 111
+ },
+ {
+  "id": "MUC",
+  "name": "Munich",
+  "city": "Munich",
+  "country": "Germany",
+  "lat": 48.3537,
+  "lon": 11.775,
+  "elev": 453
+ },
+ {
+  "id": "BER",
+  "name": "Brandenburg",
+  "city": "Berlin",
+  "country": "Germany",
+  "lat": 52.3667,
+  "lon": 13.5033,
+  "elev": 47
+ },
+ {
+  "id": "ZRH",
+  "name": "Zurich",
+  "city": "Zurich",
+  "country": "Switzerland",
+  "lat": 47.4647,
+  "lon": 8.5492,
+  "elev": 432
+ },
+ {
+  "id": "GVA",
+  "name": "Geneva",
+  "city": "Geneva",
+  "country": "Switzerland",
+  "lat": 46.2381,
+  "lon": 6.109,
+  "elev": 430
+ },
+ {
+  "id": "VIE",
+  "name": "Vienna",
+  "city": "Vienna",
+  "country": "Austria",
+  "lat": 48.1103,
+  "lon": 16.5697,
+  "elev": 183
+ },
+ {
+  "id": "MAD",
+  "name": "Barajas",
+  "city": "Madrid",
+  "country": "Spain",
+  "lat": 40.4719,
+  "lon": -3.5626,
+  "elev": 610
+ },
+ {
+  "id": "BCN",
+  "name": "El Prat",
+  "city": "Barcelona",
+  "country": "Spain",
+  "lat": 41.2971,
+  "lon": 2.0785,
+  "elev": 4
+ },
+ {
+  "id": "LIS",
+  "name": "Humberto Delgado",
+  "city": "Lisbon",
+  "country": "Portugal",
+  "lat": 38.7756,
+  "lon": -9.1354,
+  "elev": 114
+ },
+ {
+  "id": "FCO",
+  "name": "Fiumicino",
+  "city": "Rome",
+  "country": "Italy",
+  "lat": 41.8003,
+  "lon": 12.2389,
+  "elev": 5
+ },
+ {
+  "id": "MXP",
+  "name": "Malpensa",
+  "city": "Milan",
+  "country": "Italy",
+  "lat": 45.6306,
+  "lon": 8.7281,
+  "elev": 234
+ },
+ {
+  "id": "VCE",
+  "name": "Marco Polo",
+  "city": "Venice",
+  "country": "Italy",
+  "lat": 45.5053,
+  "lon": 12.3519,
+  "elev": 2
+ },
+ {
+  "id": "ATH",
+  "name": "Athens Intl",
+  "city": "Athens",
+  "country": "Greece",
+  "lat": 37.9364,
+  "lon": 23.9445,
+  "elev": 94
+ },
+ {
+  "id": "IST",
+  "name": "Istanbul",
+  "city": "Istanbul",
+  "country": "Turkey",
+  "lat": 41.2753,
+  "lon": 28.7519,
+  "elev": 99
+ },
+ {
+  "id": "CPH",
+  "name": "Kastrup",
+  "city": "Copenhagen",
+  "country": "Denmark",
+  "lat": 55.618,
+  "lon": 12.6508,
+  "elev": 5
+ },
+ {
+  "id": "ARN",
+  "name": "Arlanda",
+  "city": "Stockholm",
+  "country": "Sweden",
+  "lat": 59.6519,
+  "lon": 17.9186,
+  "elev": 42
+ },
+ {
+  "id": "OSL",
+  "name": "Gardermoen",
+  "city": "Oslo",
+  "country": "Norway",
+  "lat": 60.1939,
+  "lon": 11.1004,
+  "elev": 208
+ },
+ {
+  "id": "HEL",
+  "name": "Helsinki-Vantaa",
+  "city": "Helsinki",
+  "country": "Finland",
+  "lat": 60.3172,
+  "lon": 24.9633,
+  "elev": 55
+ },
+ {
+  "id": "KEF",
+  "name": "Keflav\u00edk",
+  "city": "Reykjav\u00edk",
+  "country": "Iceland",
+  "lat": 63.985,
+  "lon": -22.6056,
+  "elev": 52
+ },
+ {
+  "id": "WAW",
+  "name": "Chopin",
+  "city": "Warsaw",
+  "country": "Poland",
+  "lat": 52.1657,
+  "lon": 20.9671,
+  "elev": 110
+ },
+ {
+  "id": "PRG",
+  "name": "V\u00e1clav Havel",
+  "city": "Prague",
+  "country": "Czechia",
+  "lat": 50.1008,
+  "lon": 14.26,
+  "elev": 380
+ },
+ {
+  "id": "BUD",
+  "name": "Ferenc Liszt",
+  "city": "Budapest",
+  "country": "Hungary",
+  "lat": 47.4369,
+  "lon": 19.2556,
+  "elev": 151
+ },
+ {
+  "id": "DXB",
+  "name": "Dubai Intl",
+  "city": "Dubai",
+  "country": "UAE",
+  "lat": 25.2532,
+  "lon": 55.3657,
+  "elev": 19
+ },
+ {
+  "id": "AUH",
+  "name": "Zayed Intl",
+  "city": "Abu Dhabi",
+  "country": "UAE",
+  "lat": 24.433,
+  "lon": 54.6511,
+  "elev": 27
+ },
+ {
+  "id": "DOH",
+  "name": "Hamad Intl",
+  "city": "Doha",
+  "country": "Qatar",
+  "lat": 25.2731,
+  "lon": 51.6081,
+  "elev": 4
+ },
+ {
+  "id": "TLV",
+  "name": "Ben Gurion",
+  "city": "Tel Aviv",
+  "country": "Israel",
+  "lat": 32.0114,
+  "lon": 34.8867,
+  "elev": 41
+ },
+ {
+  "id": "CAI",
+  "name": "Cairo Intl",
+  "city": "Cairo",
+  "country": "Egypt",
+  "lat": 30.1219,
+  "lon": 31.4056,
+  "elev": 116
+ },
+ {
+  "id": "JNB",
+  "name": "O.R. Tambo",
+  "city": "Johannesburg",
+  "country": "South Africa",
+  "lat": -26.1392,
+  "lon": 28.246,
+  "elev": 1694
+ },
+ {
+  "id": "CPT",
+  "name": "Cape Town Intl",
+  "city": "Cape Town",
+  "country": "South Africa",
+  "lat": -33.9715,
+  "lon": 18.6021,
+  "elev": 46
+ },
+ {
+  "id": "NBO",
+  "name": "Jomo Kenyatta",
+  "city": "Nairobi",
+  "country": "Kenya",
+  "lat": -1.3192,
+  "lon": 36.9278,
+  "elev": 1624
+ },
+ {
+  "id": "CMN",
+  "name": "Mohammed V",
+  "city": "Casablanca",
+  "country": "Morocco",
+  "lat": 33.3675,
+  "lon": -7.5899,
+  "elev": 200
+ },
+ {
+  "id": "NRT",
+  "name": "Narita",
+  "city": "Tokyo",
+  "country": "Japan",
+  "lat": 35.772,
+  "lon": 140.3929,
+  "elev": 43
+ },
+ {
+  "id": "HND",
+  "name": "Haneda",
+  "city": "Tokyo",
+  "country": "Japan",
+  "lat": 35.5494,
+  "lon": 139.7798,
+  "elev": 6
+ },
+ {
+  "id": "KIX",
+  "name": "Kansai",
+  "city": "Osaka",
+  "country": "Japan",
+  "lat": 34.4347,
+  "lon": 135.244,
+  "elev": 5
+ },
+ {
+  "id": "ICN",
+  "name": "Incheon",
+  "city": "Seoul",
+  "country": "South Korea",
+  "lat": 37.4602,
+  "lon": 126.4407,
+  "elev": 7
+ },
+ {
+  "id": "PEK",
+  "name": "Capital Intl",
+  "city": "Beijing",
+  "country": "China",
+  "lat": 40.0799,
+  "lon": 116.6031,
+  "elev": 35
+ },
+ {
+  "id": "PVG",
+  "name": "Pudong",
+  "city": "Shanghai",
+  "country": "China",
+  "lat": 31.1443,
+  "lon": 121.8083,
+  "elev": 4
+ },
+ {
+  "id": "CAN",
+  "name": "Baiyun",
+  "city": "Guangzhou",
+  "country": "China",
+  "lat": 23.3924,
+  "lon": 113.2988,
+  "elev": 15
+ },
+ {
+  "id": "HKG",
+  "name": "Hong Kong Intl",
+  "city": "Hong Kong",
+  "country": "China",
+  "lat": 22.308,
+  "lon": 113.9185,
+  "elev": 9
+ },
+ {
+  "id": "TPE",
+  "name": "Taoyuan",
+  "city": "Taipei",
+  "country": "Taiwan",
+  "lat": 25.0777,
+  "lon": 121.2328,
+  "elev": 33
+ },
+ {
+  "id": "SIN",
+  "name": "Changi",
+  "city": "Singapore",
+  "country": "Singapore",
+  "lat": 1.3644,
+  "lon": 103.9915,
+  "elev": 7
+ },
+ {
+  "id": "BKK",
+  "name": "Suvarnabhumi",
+  "city": "Bangkok",
+  "country": "Thailand",
+  "lat": 13.69,
+  "lon": 100.7501,
+  "elev": 2
+ },
+ {
+  "id": "KUL",
+  "name": "Kuala Lumpur Intl",
+  "city": "Kuala Lumpur",
+  "country": "Malaysia",
+  "lat": 2.7456,
+  "lon": 101.7099,
+  "elev": 21
+ },
+ {
+  "id": "CGK",
+  "name": "Soekarno\u2013Hatta",
+  "city": "Jakarta",
+  "country": "Indonesia",
+  "lat": -6.1256,
+  "lon": 106.6558,
+  "elev": 10
+ },
+ {
+  "id": "MNL",
+  "name": "Ninoy Aquino",
+  "city": "Manila",
+  "country": "Philippines",
+  "lat": 14.5086,
+  "lon": 121.0194,
+  "elev": 23
+ },
+ {
+  "id": "DEL",
+  "name": "Indira Gandhi",
+  "city": "Delhi",
+  "country": "India",
+  "lat": 28.5562,
+  "lon": 77.1,
+  "elev": 237
+ },
+ {
+  "id": "BOM",
+  "name": "Chhatrapati Shivaji",
+  "city": "Mumbai",
+  "country": "India",
+  "lat": 19.0896,
+  "lon": 72.8656,
+  "elev": 11
+ },
+ {
+  "id": "BLR",
+  "name": "Kempegowda",
+  "city": "Bengaluru",
+  "country": "India",
+  "lat": 13.1986,
+  "lon": 77.7066,
+  "elev": 915
+ },
+ {
+  "id": "SYD",
+  "name": "Kingsford Smith",
+  "city": "Sydney",
+  "country": "Australia",
+  "lat": -33.9399,
+  "lon": 151.1753,
+  "elev": 6
+ },
+ {
+  "id": "MEL",
+  "name": "Tullamarine",
+  "city": "Melbourne",
+  "country": "Australia",
+  "lat": -37.669,
+  "lon": 144.841,
+  "elev": 132
+ },
+ {
+  "id": "BNE",
+  "name": "Brisbane",
+  "city": "Brisbane",
+  "country": "Australia",
+  "lat": -27.3842,
+  "lon": 153.1175,
+  "elev": 4
+ },
+ {
+  "id": "PER",
+  "name": "Perth",
+  "city": "Perth",
+  "country": "Australia",
+  "lat": -31.9403,
+  "lon": 115.9669,
+  "elev": 21
+ },
+ {
+  "id": "AKL",
+  "name": "Auckland",
+  "city": "Auckland",
+  "country": "New Zealand",
+  "lat": -37.0082,
+  "lon": 174.785,
+  "elev": 7
+ },
+ {
+  "id": "CHC",
+  "name": "Christchurch",
+  "city": "Christchurch",
+  "country": "New Zealand",
+  "lat": -43.4894,
+  "lon": 172.532,
+  "elev": 37
+ },
+ {
+  "id": "GRU",
+  "name": "Guarulhos",
+  "city": "S\u00e3o Paulo",
+  "country": "Brazil",
+  "lat": -23.4356,
+  "lon": -46.4731,
+  "elev": 750
+ },
+ {
+  "id": "GIG",
+  "name": "Gale\u00e3o",
+  "city": "Rio de Janeiro",
+  "country": "Brazil",
+  "lat": -22.81,
+  "lon": -43.2506,
+  "elev": 9
+ },
+ {
+  "id": "EZE",
+  "name": "Ministro Pistarini",
+  "city": "Buenos Aires",
+  "country": "Argentina",
+  "lat": -34.8222,
+  "lon": -58.5358,
+  "elev": 20
+ },
+ {
+  "id": "SCL",
+  "name": "Arturo Merino Ben\u00edtez",
+  "city": "Santiago",
+  "country": "Chile",
+  "lat": -33.393,
+  "lon": -70.7858,
+  "elev": 474
+ },
+ {
+  "id": "LIM",
+  "name": "Jorge Ch\u00e1vez",
+  "city": "Lima",
+  "country": "Peru",
+  "lat": -12.0219,
+  "lon": -77.1143,
+  "elev": 34
+ },
+ {
+  "id": "BOG",
+  "name": "El Dorado",
+  "city": "Bogot\u00e1",
+  "country": "Colombia",
+  "lat": 4.7016,
+  "lon": -74.1469,
+  "elev": 2548
+ },
+ {
+  "id": "UIO",
+  "name": "Mariscal Sucre",
+  "city": "Quito",
+  "country": "Ecuador",
+  "lat": -0.1292,
+  "lon": -78.3575,
+  "elev": 2400
+ },
+ {
+  "id": "PTY",
+  "name": "Tocumen",
+  "city": "Panama City",
+  "country": "Panama",
+  "lat": 9.0714,
+  "lon": -79.3835,
+  "elev": 41
+ },
+ {
+  "id": "SJO",
+  "name": "Juan Santamar\u00eda",
+  "city": "San Jos\u00e9",
+  "country": "Costa Rica",
+  "lat": 9.9939,
+  "lon": -84.2088,
+  "elev": 921
+ },
+ {
+  "id": "HAV",
+  "name": "Jos\u00e9 Mart\u00ed",
+  "city": "Havana",
+  "country": "Cuba",
+  "lat": 22.9892,
+  "lon": -82.4091,
+  "elev": 64
+ },
+ {
+  "id": "SJU",
+  "name": "Luis Mu\u00f1oz Mar\u00edn",
+  "city": "San Juan",
+  "country": "Puerto Rico",
+  "lat": 18.4394,
+  "lon": -66.0018,
+  "elev": 3
+ },
+ {
+  "id": "MBJ",
+  "name": "Sangster Intl",
+  "city": "Montego Bay",
+  "country": "Jamaica",
+  "lat": 18.5037,
+  "lon": -77.9134,
+  "elev": 1
+ },
+ {
+  "id": "PUJ",
+  "name": "Punta Cana",
+  "city": "Punta Cana",
+  "country": "Dominican Republic",
+  "lat": 18.5674,
+  "lon": -68.3634,
+  "elev": 14
+ },
+ {
+  "id": "NAS",
+  "name": "Lynden Pindling",
+  "city": "Nassau",
+  "country": "Bahamas",
+  "lat": 25.039,
+  "lon": -77.4662,
+  "elev": 5
+ },
+ {
+  "id": "SVO",
+  "name": "Sheremetyevo",
+  "city": "Moscow",
+  "country": "Russia",
+  "lat": 55.9726,
+  "lon": 37.4146,
+  "elev": 190
+ }
+]

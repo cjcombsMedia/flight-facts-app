@@ -1,0 +1,2236 @@
+[
+ {
+  "id": "grand-canyon",
+  "name": "Grand Canyon",
+  "lat": 36.1069,
+  "lon": -112.1129,
+  "kind": "natural",
+  "reach": 140,
+  "wow": 98,
+  "region": "Arizona, USA",
+  "facts": [
+   "The canyon is a mile deep and up to 18 miles across. The rock at the bottom is roughly 1.8 billion years old — nearly half the age of the Earth.",
+   "The Colorado River has been cutting this for around 5 to 6 million years. It removes about 500,000 tons of sediment a day."
+  ],
+  "aviation": "On 30 June 1956 two airliners collided over this canyon in clear daylight, killing all 128 aboard. Both were flying uncontrolled airspace under 'see and be seen'. The disaster directly produced the Federal Aviation Act of 1958 and the modern air traffic control system you are flying under right now."
+ },
+ {
+  "id": "monument-valley",
+  "name": "Monument Valley",
+  "lat": 36.998,
+  "lon": -110.0985,
+  "kind": "desert",
+  "reach": 90,
+  "wow": 88,
+  "region": "Utah / Arizona, USA",
+  "facts": [
+   "Those buttes are the leftovers of a plateau that has otherwise eroded away. The sandstone spires stand up to 1,000 feet above the valley floor.",
+   "John Ford filmed nine Westerns here, which is why this specific landscape reads as 'the American West' to most of the planet."
+  ]
+ },
+ {
+  "id": "zion",
+  "name": "Zion Canyon",
+  "lat": 37.2982,
+  "lon": -113.0263,
+  "kind": "natural",
+  "reach": 70,
+  "wow": 84,
+  "region": "Utah, USA",
+  "facts": [
+   "The Navajo Sandstone walls here are the remains of the largest sand dune field known in Earth's history — a Sahara-sized desert that sat here about 180 million years ago."
+  ]
+ },
+ {
+  "id": "bryce",
+  "name": "Bryce Canyon",
+  "lat": 37.593,
+  "lon": -112.1871,
+  "kind": "natural",
+  "reach": 65,
+  "wow": 82,
+  "region": "Utah, USA",
+  "facts": [
+   "Not actually a canyon — it is the eroding edge of a plateau. The orange spires are 'hoodoos', carved by water freezing and thawing about 200 nights a year."
+  ]
+ },
+ {
+  "id": "lake-powell",
+  "name": "Lake Powell",
+  "lat": 37.0682,
+  "lon": -111.2433,
+  "kind": "water",
+  "reach": 90,
+  "wow": 79,
+  "region": "Utah / Arizona, USA",
+  "facts": [
+   "It has around 1,960 miles of shoreline — more than the entire Pacific coast of the continental United States."
+  ]
+ },
+ {
+  "id": "vegas",
+  "name": "Las Vegas",
+  "lat": 36.1699,
+  "lon": -115.1398,
+  "kind": "city",
+  "reach": 90,
+  "wow": 85,
+  "region": "Nevada, USA",
+  "facts": [
+   "The Strip is the brightest place on Earth as seen from orbit. The Luxor's sky beam alone throws about 42 billion candela straight up.",
+   "The whole valley had a population of 25 in 1900."
+  ]
+ },
+ {
+  "id": "area51",
+  "name": "Groom Lake (Area 51)",
+  "lat": 37.235,
+  "lon": -115.8111,
+  "kind": "oddity",
+  "reach": 80,
+  "wow": 95,
+  "region": "Nevada, USA",
+  "facts": [
+   "The US government did not formally acknowledge this base existed until 2013, in response to a Freedom of Information Act request."
+  ],
+  "aviation": "The U-2, the A-12/SR-71 and the F-117 stealth fighter were all first flown here. Employees still commute daily on unmarked 737s out of Las Vegas — the 'Janet' fleet, callsigns you can hear on ATC."
+ },
+ {
+  "id": "death-valley",
+  "name": "Death Valley",
+  "lat": 36.5054,
+  "lon": -117.0794,
+  "kind": "desert",
+  "reach": 100,
+  "wow": 87,
+  "region": "California, USA",
+  "facts": [
+   "Badwater Basin is 282 feet below sea level. The highest air temperature ever reliably recorded on Earth — 134°F — was measured here in 1913.",
+   "Mount Whitney, the highest point in the lower 48, is only 85 miles away."
+  ]
+ },
+ {
+  "id": "yosemite",
+  "name": "Yosemite Valley",
+  "lat": 37.7456,
+  "lon": -119.5936,
+  "kind": "natural",
+  "reach": 70,
+  "wow": 90,
+  "region": "California, USA",
+  "facts": [
+   "El Capitan is a single piece of granite about 3,000 feet tall. In 2017 Alex Honnold climbed it with no rope in 3 hours 56 minutes."
+  ]
+ },
+ {
+  "id": "tahoe",
+  "name": "Lake Tahoe",
+  "lat": 39.0968,
+  "lon": -120.0324,
+  "kind": "water",
+  "reach": 70,
+  "wow": 80,
+  "region": "California / Nevada, USA",
+  "facts": [
+   "It holds enough water to cover the whole state of California 14 inches deep. It has never frozen over — there is too much of it."
+  ]
+ },
+ {
+  "id": "sf",
+  "name": "San Francisco Bay",
+  "lat": 37.7749,
+  "lon": -122.4194,
+  "kind": "city",
+  "reach": 80,
+  "wow": 88,
+  "region": "California, USA",
+  "facts": [
+   "The Golden Gate Bridge's colour is 'International Orange', chosen because it stays visible in the fog. The Navy had wanted black and yellow stripes."
+  ]
+ },
+ {
+  "id": "la",
+  "name": "Los Angeles",
+  "lat": 34.0522,
+  "lon": -118.2437,
+  "kind": "city",
+  "reach": 90,
+  "wow": 84,
+  "region": "California, USA",
+  "facts": [
+   "The LA basin sits on top of one of the largest urban oil fields in the world. Several 'office buildings' downtown are camouflaged drilling rigs."
+  ],
+  "aviation": "LAX handles a landing or takeoff roughly every 45 seconds at peak. Its four parallel runways are arranged in two pairs so arrivals and departures never have to cross paths."
+ },
+ {
+  "id": "hollywood",
+  "name": "Hollywood Sign",
+  "lat": 34.1341,
+  "lon": -118.3215,
+  "kind": "landmark",
+  "reach": 40,
+  "wow": 74,
+  "region": "California, USA",
+  "facts": [
+   "It originally read HOLLYWOODLAND and was a 1923 advert for a housing development. It was only meant to stand for 18 months."
+  ]
+ },
+ {
+  "id": "rockies",
+  "name": "The Rocky Mountains",
+  "lat": 39.1178,
+  "lon": -106.4453,
+  "kind": "mountain",
+  "reach": 160,
+  "wow": 89,
+  "region": "Colorado, USA",
+  "facts": [
+   "The Rockies run 3,000 miles from British Columbia to New Mexico. Colorado alone has 58 peaks above 14,000 feet.",
+   "Everything you can see draining east from this ridge ends up in the Atlantic; everything draining west ends up in the Pacific."
+  ]
+ },
+ {
+  "id": "denver",
+  "name": "Denver",
+  "lat": 39.7392,
+  "lon": -104.9903,
+  "kind": "city",
+  "reach": 80,
+  "wow": 76,
+  "region": "Colorado, USA",
+  "facts": [
+   "The 13th step of the State Capitol is exactly one mile above sea level."
+  ],
+  "aviation": "Denver International is the largest airport in North America by land area — 53 square miles, bigger than the city of San Francisco. Its white tented roof is shaped after the Rockies you just crossed."
+ },
+ {
+  "id": "yellowstone",
+  "name": "Yellowstone",
+  "lat": 44.428,
+  "lon": -110.5885,
+  "kind": "volcano",
+  "reach": 120,
+  "wow": 94,
+  "region": "Wyoming, USA",
+  "facts": [
+   "The whole park sits inside the caldera of an active supervolcano roughly 40 by 30 miles across. It last erupted about 640,000 years ago.",
+   "Yellowstone contains around half of all the geysers on Earth."
+  ]
+ },
+ {
+  "id": "tetons",
+  "name": "Grand Teton",
+  "lat": 43.7411,
+  "lon": -110.8024,
+  "kind": "mountain",
+  "reach": 75,
+  "wow": 86,
+  "region": "Wyoming, USA",
+  "facts": [
+   "The Tetons have no foothills — they rise straight off the valley floor, which is why they look so abrupt from the air. The fault is still active and the range is still growing."
+  ]
+ },
+ {
+  "id": "rainier",
+  "name": "Mount Rainier",
+  "lat": 46.8523,
+  "lon": -121.7603,
+  "kind": "volcano",
+  "reach": 110,
+  "wow": 91,
+  "region": "Washington, USA",
+  "facts": [
+   "An active volcano with 26 named glaciers — the most of any mountain in the contiguous US. Locals just call it 'the Mountain'."
+  ],
+  "aviation": "In 1947 pilot Kenneth Arnold reported nine objects moving 'like a saucer skipping on water' near this peak. A newspaper compressed that into 'flying saucer', and the phrase stuck to the objects rather than the motion."
+ },
+ {
+  "id": "st-helens",
+  "name": "Mount St. Helens",
+  "lat": 46.1912,
+  "lon": -122.1944,
+  "kind": "volcano",
+  "reach": 80,
+  "wow": 88,
+  "region": "Washington, USA",
+  "facts": [
+   "The 1980 eruption removed 1,300 feet off the top of the mountain in minutes. The lateral blast flattened 230 square miles of forest."
+  ]
+ },
+ {
+  "id": "crater-lake",
+  "name": "Crater Lake",
+  "lat": 42.9446,
+  "lon": -122.109,
+  "kind": "water",
+  "reach": 60,
+  "wow": 85,
+  "region": "Oregon, USA",
+  "facts": [
+   "The deepest lake in the United States at 1,949 feet. It is fed entirely by rain and snow — no rivers in or out — which is why the water is that colour."
+  ]
+ },
+ {
+  "id": "great-salt-lake",
+  "name": "Great Salt Lake",
+  "lat": 41.115,
+  "lon": -112.4783,
+  "kind": "water",
+  "reach": 100,
+  "wow": 80,
+  "region": "Utah, USA",
+  "facts": [
+   "Saltier than the ocean, and in places pink — the colour comes from salt-loving archaea and algae. The railway causeway splits it into two chemically different halves, which is why the two sides are different colours from up here."
+  ]
+ },
+ {
+  "id": "bonneville",
+  "name": "Bonneville Salt Flats",
+  "lat": 40.85,
+  "lon": -113.8833,
+  "kind": "desert",
+  "reach": 70,
+  "wow": 82,
+  "region": "Utah, USA",
+  "facts": [
+   "Thirty thousand acres of salt so flat you can see the curvature of the Earth across it. The land speed record has been set here repeatedly — over 600 mph."
+  ]
+ },
+ {
+  "id": "mt-rushmore",
+  "name": "Mount Rushmore",
+  "lat": 43.8791,
+  "lon": -103.4591,
+  "kind": "landmark",
+  "reach": 50,
+  "wow": 81,
+  "region": "South Dakota, USA",
+  "facts": [
+   "Each head is about 60 feet tall. Roughly 90% of the carving was done with dynamite, not chisels."
+  ]
+ },
+ {
+  "id": "badlands",
+  "name": "The Badlands",
+  "lat": 43.8554,
+  "lon": -102.3397,
+  "kind": "natural",
+  "reach": 80,
+  "wow": 79,
+  "region": "South Dakota, USA",
+  "facts": [
+   "Eroding at about one inch a year — geologically enormous. In roughly 500,000 years they will be gone entirely."
+  ]
+ },
+ {
+  "id": "chicago",
+  "name": "Chicago",
+  "lat": 41.8781,
+  "lon": -87.6298,
+  "kind": "city",
+  "reach": 90,
+  "wow": 86,
+  "region": "Illinois, USA",
+  "facts": [
+   "In the 1850s the city jacked entire blocks of buildings up on screw jacks — some six feet — to install a sewer system. A young George Pullman made his name doing it.",
+   "The Chicago River was permanently reversed in 1900 so the city would stop drinking its own sewage."
+  ],
+  "aviation": "O'Hare was named for Butch O'Hare, a Navy pilot who broke up a bomber formation single-handed in 1942. Its old airport code ORD comes from Orchard Field, the apple orchard it replaced."
+ },
+ {
+  "id": "lake-michigan",
+  "name": "Lake Michigan",
+  "lat": 44.0,
+  "lon": -87.0,
+  "kind": "water",
+  "reach": 130,
+  "wow": 80,
+  "region": "USA",
+  "facts": [
+   "The only Great Lake entirely inside the United States. It holds about 1,180 cubic miles of water and has around 1,640 miles of shoreline."
+  ]
+ },
+ {
+  "id": "niagara",
+  "name": "Niagara Falls",
+  "lat": 43.0962,
+  "lon": -79.0377,
+  "kind": "water",
+  "reach": 60,
+  "wow": 87,
+  "region": "New York / Ontario",
+  "facts": [
+   "About 3,160 tons of water go over the edge every second. The falls are eroding upstream roughly a foot a year — they have moved seven miles since the last ice age."
+  ]
+ },
+ {
+  "id": "nyc",
+  "name": "New York City",
+  "lat": 40.7128,
+  "lon": -74.006,
+  "kind": "city",
+  "reach": 90,
+  "wow": 93,
+  "region": "New York, USA",
+  "facts": [
+   "Manhattan's skyscrapers cluster downtown and midtown because that is where the bedrock is close to the surface. The dip between them is a deeper layer of glacial till.",
+   "There are about 10,000 miles of subway and utility tunnels under the island."
+  ],
+  "aviation": "On 15 January 2009 US Airways 1549 lost both engines to geese at 2,800 feet after leaving LaGuardia and landed in the Hudson River. All 155 people aboard survived — the 'Miracle on the Hudson'."
+ },
+ {
+  "id": "statue-liberty",
+  "name": "Statue of Liberty",
+  "lat": 40.6892,
+  "lon": -74.0445,
+  "kind": "landmark",
+  "reach": 35,
+  "wow": 85,
+  "region": "New York, USA",
+  "facts": [
+   "She was originally the colour of a penny. The copper skin is only 2.4 mm thick — about two stacked pennies — and oxidised to green over about 30 years."
+  ]
+ },
+ {
+  "id": "dc",
+  "name": "Washington, D.C.",
+  "lat": 38.9072,
+  "lon": -77.0369,
+  "kind": "city",
+  "reach": 70,
+  "wow": 82,
+  "region": "USA",
+  "facts": [
+   "No building may rise above the width of the street it faces plus 20 feet, which is why the city is so flat and the Washington Monument still dominates it."
+  ],
+  "aviation": "The airspace over DC is the most restricted in the country. Airliners into Reagan National fly the 'River Visual' — a hand-flown curving approach down the Potomac to stay clear of prohibited airspace."
+ },
+ {
+  "id": "kitty-hawk",
+  "name": "Kitty Hawk",
+  "lat": 36.0646,
+  "lon": -75.7055,
+  "kind": "aviation",
+  "reach": 70,
+  "wow": 96,
+  "region": "North Carolina, USA",
+  "facts": [
+   "The Wrights chose this spot by writing to the US Weather Bureau and asking where there was steady wind and soft sand to crash into."
+  ],
+  "aviation": "17 December 1903. The first flight covered 120 feet and lasted 12 seconds — less than the wingspan of the aircraft you are sitting in. A piece of the Wright Flyer's wing fabric went to the Moon aboard Apollo 11."
+ },
+ {
+  "id": "cape-canaveral",
+  "name": "Cape Canaveral",
+  "lat": 28.3922,
+  "lon": -80.6077,
+  "kind": "science",
+  "reach": 80,
+  "wow": 93,
+  "region": "Florida, USA",
+  "facts": [
+   "Sited here because rockets launched east over the Atlantic get a free 900 mph boost from the Earth's rotation, and anything that fails falls into empty ocean."
+  ]
+ },
+ {
+  "id": "everglades",
+  "name": "The Everglades",
+  "lat": 25.7617,
+  "lon": -80.8298,
+  "kind": "natural",
+  "reach": 90,
+  "wow": 83,
+  "region": "Florida, USA",
+  "facts": [
+   "Not a swamp — it is a river 60 miles wide and about six inches deep, moving south at roughly a quarter mile a day.",
+   "The only place on Earth where alligators and crocodiles live side by side."
+  ]
+ },
+ {
+  "id": "miami",
+  "name": "Miami",
+  "lat": 25.7617,
+  "lon": -80.1918,
+  "kind": "city",
+  "reach": 70,
+  "wow": 79,
+  "region": "Florida, USA",
+  "facts": [
+   "The only major US city founded by a woman — Julia Tuttle, who reportedly convinced Henry Flagler to extend his railway here by mailing him orange blossoms during a freeze that had killed crops everywhere else."
+  ]
+ },
+ {
+  "id": "new-orleans",
+  "name": "New Orleans",
+  "lat": 29.9511,
+  "lon": -90.0715,
+  "kind": "city",
+  "reach": 70,
+  "wow": 80,
+  "region": "Louisiana, USA",
+  "facts": [
+   "Roughly half the city sits below sea level, and it is still sinking. The dead are buried above ground because the water table is only a few feet down."
+  ]
+ },
+ {
+  "id": "mississippi",
+  "name": "The Mississippi River",
+  "lat": 32.3,
+  "lon": -90.9,
+  "kind": "water",
+  "reach": 90,
+  "wow": 78,
+  "region": "USA",
+  "facts": [
+   "Drains 41% of the continental United States — 31 states and two Canadian provinces. A drop of water takes about 90 days to travel from Minnesota to the Gulf."
+  ]
+ },
+ {
+  "id": "great-plains",
+  "name": "The Great Plains",
+  "lat": 39.5,
+  "lon": -99.0,
+  "kind": "natural",
+  "reach": 200,
+  "wow": 70,
+  "region": "USA",
+  "facts": [
+   "Those green circles are centre-pivot irrigation — a quarter-mile sprinkler arm rotating around a well. They are drawing from the Ogallala Aquifer, water that fell as rain during the last ice age.",
+   "This was seabed 80 million years ago. Kansas has produced some of the best marine fossils in the world."
+  ]
+ },
+ {
+  "id": "sedona",
+  "name": "Sedona",
+  "lat": 34.8697,
+  "lon": -111.761,
+  "kind": "natural",
+  "reach": 50,
+  "wow": 78,
+  "region": "Arizona, USA",
+  "facts": [
+   "The rocks are red because of a thin coating of iron oxide — literally rust — on the sandstone."
+  ]
+ },
+ {
+  "id": "meteor-crater",
+  "name": "Meteor Crater",
+  "lat": 35.0272,
+  "lon": -111.0225,
+  "kind": "science",
+  "reach": 55,
+  "wow": 89,
+  "region": "Arizona, USA",
+  "facts": [
+   "Nearly a mile across and 560 feet deep, punched out about 50,000 years ago by an iron meteorite roughly 160 feet wide moving at 29,000 mph.",
+   "Apollo astronauts trained here because it is the best-preserved impact crater on Earth."
+  ]
+ },
+ {
+  "id": "roswell",
+  "name": "Roswell",
+  "lat": 33.3943,
+  "lon": -104.523,
+  "kind": "oddity",
+  "reach": 60,
+  "wow": 84,
+  "region": "New Mexico, USA",
+  "facts": [
+   "The 1947 debris was from Project Mogul — a classified array of high-altitude balloons listening for Soviet nuclear tests. The cover story was a weather balloon, which was a lie about a secret, which is how the other story got going."
+  ]
+ },
+ {
+  "id": "white-sands",
+  "name": "White Sands",
+  "lat": 32.7791,
+  "lon": -106.1711,
+  "kind": "desert",
+  "reach": 70,
+  "wow": 86,
+  "region": "New Mexico, USA",
+  "facts": [
+   "The world's largest gypsum dune field — 275 square miles of it, bright enough to be one of the most recognisable features on Earth from orbit.",
+   "The first nuclear device was detonated at Trinity Site, on this range, on 16 July 1945."
+  ]
+ },
+ {
+  "id": "boston",
+  "name": "Boston",
+  "lat": 42.3601,
+  "lon": -71.0589,
+  "kind": "city",
+  "reach": 65,
+  "wow": 78,
+  "region": "Massachusetts, USA",
+  "facts": [
+   "Much of the city is landfill. The Back Bay was literally a bay until the 1850s, filled with gravel brought in by train from Needham."
+  ]
+ },
+ {
+  "id": "seattle",
+  "name": "Seattle",
+  "lat": 47.6062,
+  "lon": -122.3321,
+  "kind": "city",
+  "reach": 75,
+  "wow": 80,
+  "region": "Washington, USA",
+  "facts": [
+   "The original downtown is one storey below the current one. After the 1889 fire the city rebuilt on top of the old streets rather than clearing them."
+  ],
+  "aviation": "Boeing's Everett factory just north of here is the largest building in the world by volume — 472 million cubic feet. It is big enough to generate its own indoor weather, which is why they installed a circulation system."
+ },
+ {
+  "id": "gander",
+  "name": "Gander, Newfoundland",
+  "lat": 48.937,
+  "lon": -54.568,
+  "kind": "aviation",
+  "reach": 90,
+  "wow": 90,
+  "region": "Newfoundland, Canada",
+  "facts": [],
+  "aviation": "On 11 September 2001, with US airspace closed, this town of 10,000 took in 38 diverted airliners and about 6,600 passengers, and housed them in schools and living rooms. Gander was built in the 1930s as the transatlantic refuelling stop — the last land before the ocean."
+ },
+ {
+  "id": "shannon",
+  "name": "Shannon, Ireland",
+  "lat": 52.7019,
+  "lon": -8.9248,
+  "kind": "aviation",
+  "reach": 80,
+  "wow": 80,
+  "region": "Ireland",
+  "facts": [],
+  "aviation": "The first landfall for westbound-to-eastbound Atlantic crossings, and the birthplace of duty-free shopping — invented here in 1947 for transiting passengers who were technically in no country at all. Irish coffee was invented here too, for cold flying-boat passengers."
+ },
+ {
+  "id": "greenland-icecap",
+  "name": "The Greenland Ice Sheet",
+  "lat": 72.0,
+  "lon": -42.0,
+  "kind": "natural",
+  "reach": 250,
+  "wow": 92,
+  "region": "Greenland",
+  "facts": [
+   "Up to two miles thick and holding about 8% of the world's fresh water. Its weight has pressed the centre of Greenland into a basin below sea level.",
+   "Ice at the bottom fell as snow more than 100,000 years ago. Cores drilled through it are one of our best records of ancient climate."
+  ]
+ },
+ {
+  "id": "iceland",
+  "name": "Iceland",
+  "lat": 64.9631,
+  "lon": -19.0208,
+  "kind": "volcano",
+  "reach": 140,
+  "wow": 90,
+  "region": "Iceland",
+  "facts": [
+   "The only place where the Mid-Atlantic Ridge is above sea level. The island is splitting apart at about 2 cm a year — North America on one side, Eurasia on the other.",
+   "Almost all its heating and electricity come from geothermal and hydro."
+  ],
+  "aviation": "The 2010 Eyjafjallajökull eruption grounded most of European aviation for six days — around 100,000 flights cancelled. Volcanic ash melts inside a jet engine and re-solidifies on the turbine blades."
+ },
+ {
+  "id": "alps",
+  "name": "The Alps",
+  "lat": 46.5,
+  "lon": 9.0,
+  "kind": "mountain",
+  "reach": 150,
+  "wow": 90,
+  "region": "Europe",
+  "facts": [
+   "Formed by Africa colliding with Europe — a collision still in progress at about 1 cm a year. Mont Blanc tops out at 15,774 feet.",
+   "The Matterhorn's summit is geologically African: a fragment of the African plate stranded on top of Europe."
+  ]
+ },
+ {
+  "id": "london",
+  "name": "London",
+  "lat": 51.5074,
+  "lon": -0.1278,
+  "kind": "city",
+  "reach": 80,
+  "wow": 88,
+  "region": "United Kingdom",
+  "facts": [
+   "The Shard's glass façade is 11 acres of it. The Thames Barrier downstream has been raised over 200 times since 1982 to stop the city flooding."
+  ],
+  "aviation": "Heathrow runs at about 99% of capacity on two runways — the busiest two-runway operation anywhere. Arrivals stack in four holding patterns and, on a bad day, one aircraft lands every 45 seconds."
+ },
+ {
+  "id": "paris",
+  "name": "Paris",
+  "lat": 48.8566,
+  "lon": 2.3522,
+  "kind": "city",
+  "reach": 75,
+  "wow": 88,
+  "region": "France",
+  "facts": [
+   "The Eiffel Tower grows about 6 inches taller in summer as the iron expands. It was meant to be dismantled after 20 years and survived because it made a good radio antenna.",
+   "There are roughly 200 miles of catacombs and old quarry tunnels under the city."
+  ]
+ },
+ {
+  "id": "rome",
+  "name": "Rome",
+  "lat": 41.9028,
+  "lon": 12.4964,
+  "kind": "ancient",
+  "reach": 70,
+  "wow": 89,
+  "region": "Italy",
+  "facts": [
+   "The Pantheon's concrete dome has been the largest unreinforced concrete dome on Earth for about 1,900 years. Roman concrete used seawater and volcanic ash and gets stronger as it ages."
+  ]
+ },
+ {
+  "id": "sahara",
+  "name": "The Sahara",
+  "lat": 23.0,
+  "lon": 12.0,
+  "kind": "desert",
+  "reach": 300,
+  "wow": 88,
+  "region": "North Africa",
+  "facts": [
+   "Roughly the size of the United States. Only about 20% of it is sand dunes — most is rock and gravel.",
+   "Dust blown off the Sahara crosses the Atlantic and fertilises the Amazon rainforest — tens of millions of tons a year."
+  ]
+ },
+ {
+  "id": "nile",
+  "name": "The Nile",
+  "lat": 26.0,
+  "lon": 32.0,
+  "kind": "water",
+  "reach": 120,
+  "wow": 86,
+  "region": "Egypt",
+  "facts": [
+   "At night the inhabited strip along the river is a bright ribbon in an otherwise black desert — one of the most distinctive human features visible from space."
+  ]
+ },
+ {
+  "id": "giza",
+  "name": "Pyramids of Giza",
+  "lat": 29.9792,
+  "lon": 31.1342,
+  "kind": "ancient",
+  "reach": 50,
+  "wow": 95,
+  "region": "Egypt",
+  "facts": [
+   "The Great Pyramid was the tallest structure built by humans for about 3,800 years. Its base is level to within about 2 cm across 13 acres.",
+   "It was originally cased in polished white limestone and would have been blindingly bright from up here."
+  ]
+ },
+ {
+  "id": "alps-himalaya",
+  "name": "The Himalaya",
+  "lat": 28.0,
+  "lon": 85.0,
+  "kind": "mountain",
+  "reach": 250,
+  "wow": 96,
+  "region": "Asia",
+  "facts": [
+   "Still rising about 5 mm a year as India ploughs into Asia. There are over 100 peaks above 24,000 feet.",
+   "Everest's summit rock is marine limestone — it was seabed before it was a mountain."
+  ],
+  "aviation": "Airliners cannot overfly the highest Himalaya at normal cruise levels: if the cabin depressurised there would be no altitude to descend to. Routes are planned around 'escape corridors' with lower terrain."
+ },
+ {
+  "id": "tokyo",
+  "name": "Tokyo",
+  "lat": 35.6762,
+  "lon": 139.6503,
+  "kind": "city",
+  "reach": 85,
+  "wow": 89,
+  "region": "Japan",
+  "facts": [
+   "The greater Tokyo area is the largest metropolitan region on Earth — around 37 million people. Its rail network moves about 40 million passengers a day."
+  ]
+ },
+ {
+  "id": "fuji",
+  "name": "Mount Fuji",
+  "lat": 35.3606,
+  "lon": 138.7274,
+  "kind": "volcano",
+  "reach": 90,
+  "wow": 92,
+  "region": "Japan",
+  "facts": [
+   "An active volcano that last erupted in 1707. Its near-perfect cone comes from being three volcanoes stacked on top of each other."
+  ],
+  "aviation": "The jet stream over Japan is the fastest on Earth, regularly exceeding 250 mph. It was discovered by Japanese meteorologist Wasaburo Oishi in the 1920s using balloons — his papers were published in Esperanto and largely ignored."
+ },
+ {
+  "id": "himalaya-tibet",
+  "name": "The Tibetan Plateau",
+  "lat": 32.0,
+  "lon": 88.0,
+  "kind": "natural",
+  "reach": 250,
+  "wow": 88,
+  "region": "China",
+  "facts": [
+   "The 'Roof of the World' — an area the size of Western Europe averaging 14,800 feet. It is high enough to steer the Asian monsoon and shape the climate of half the planet."
+  ]
+ },
+ {
+  "id": "gobi",
+  "name": "The Gobi Desert",
+  "lat": 43.0,
+  "lon": 105.0,
+  "kind": "desert",
+  "reach": 180,
+  "wow": 78,
+  "region": "Mongolia / China",
+  "facts": [
+   "A cold desert — winter temperatures drop to -40°F and snow sometimes settles on the dunes. The first confirmed dinosaur eggs were found here in 1923."
+  ]
+ },
+ {
+  "id": "dubai",
+  "name": "Dubai",
+  "lat": 25.2048,
+  "lon": 55.2708,
+  "kind": "city",
+  "reach": 70,
+  "wow": 87,
+  "region": "UAE",
+  "facts": [
+   "The Burj Khalifa is 2,717 feet tall. Its foundations sit on 192 piles driven over 160 feet down, and the building sways about 5 feet at the top."
+  ],
+  "aviation": "Roughly a third of the world's population lives within a four-hour flight of here, and two-thirds within eight — which is the entire business model of the Gulf carriers."
+ },
+ {
+  "id": "sydney",
+  "name": "Sydney",
+  "lat": -33.8688,
+  "lon": 151.2093,
+  "kind": "city",
+  "reach": 75,
+  "wow": 87,
+  "region": "Australia",
+  "facts": [
+   "The Opera House roof is clad in 1,056,006 tiles, in two subtly different shades so it never looks flat. Sydney Harbour holds about 500 billion litres of water."
+  ]
+ },
+ {
+  "id": "uluru",
+  "name": "Uluru",
+  "lat": -25.3444,
+  "lon": 131.0369,
+  "kind": "landmark",
+  "reach": 90,
+  "wow": 91,
+  "region": "Australia",
+  "facts": [
+   "What you can see is the tip. The sandstone continues about 1.5 miles underground. It is roughly 550 million years old."
+  ]
+ },
+ {
+  "id": "great-barrier-reef",
+  "name": "Great Barrier Reef",
+  "lat": -18.2871,
+  "lon": 147.6992,
+  "kind": "water",
+  "reach": 150,
+  "wow": 93,
+  "region": "Australia",
+  "facts": [
+   "The largest structure built by living organisms — about 1,400 miles long, made of roughly 2,900 individual reefs. It is visible from space."
+  ]
+ },
+ {
+  "id": "amazon",
+  "name": "The Amazon",
+  "lat": -3.4653,
+  "lon": -62.2159,
+  "kind": "natural",
+  "reach": 250,
+  "wow": 94,
+  "region": "Brazil",
+  "facts": [
+   "The river discharges about 20% of all fresh water entering the world's oceans — more than the next seven largest rivers combined.",
+   "The forest generates much of its own rainfall. Water evaporates and falls again five or six times crossing the basin — 'flying rivers'."
+  ]
+ },
+ {
+  "id": "andes",
+  "name": "The Andes",
+  "lat": -20.0,
+  "lon": -68.0,
+  "kind": "mountain",
+  "reach": 200,
+  "wow": 90,
+  "region": "South America",
+  "facts": [
+   "The longest continental mountain range on Earth — 4,300 miles down the spine of the continent."
+  ]
+ },
+ {
+  "id": "atacama",
+  "name": "Atacama Desert",
+  "lat": -24.5,
+  "lon": -69.25,
+  "kind": "desert",
+  "reach": 120,
+  "wow": 89,
+  "region": "Chile",
+  "facts": [
+   "Some weather stations here have never recorded rain. It is the driest non-polar place on Earth, which is exactly why the world's biggest telescopes are built here."
+  ]
+ },
+ {
+  "id": "sierra-madre",
+  "name": "Sierra Madre Occidental",
+  "lat": 25.0,
+  "lon": -106.5,
+  "kind": "mountain",
+  "reach": 140,
+  "wow": 83,
+  "region": "Mexico",
+  "facts": [
+   "Copper Canyon down there is a network of six canyons, several of them deeper than the Grand Canyon.",
+   "This range is one enormous volcanic plateau — one of the largest ignimbrite provinces on Earth, laid down about 30 million years ago."
+  ]
+ },
+ {
+  "id": "mexico-city",
+  "name": "Mexico City",
+  "lat": 19.4326,
+  "lon": -99.1332,
+  "kind": "city",
+  "reach": 85,
+  "wow": 88,
+  "region": "Mexico",
+  "facts": [
+   "Built on a drained lake bed, and sinking — parts of the city have dropped over 30 feet in the last century. The cathedral has a visible tilt.",
+   "It sits in a bowl at 7,350 feet ringed by volcanoes."
+  ],
+  "aviation": "Aircraft leaving here need far more runway than at sea level: thin air means less lift and less engine thrust. Takeoff performance charts for MEX read like a different aircraft."
+ },
+ {
+  "id": "popocatepetl",
+  "name": "Popocatépetl",
+  "lat": 19.0224,
+  "lon": -98.6279,
+  "kind": "volcano",
+  "reach": 80,
+  "wow": 90,
+  "region": "Mexico",
+  "facts": [
+   "An active volcano at 17,802 feet, about 45 miles from Mexico City. It vents steam and ash regularly and airlines watch it closely."
+  ]
+ },
+ {
+  "id": "guanajuato",
+  "name": "Guanajuato & the Bajío",
+  "lat": 21.019,
+  "lon": -101.2574,
+  "kind": "city",
+  "reach": 70,
+  "wow": 76,
+  "region": "Mexico",
+  "facts": [
+   "Guanajuato's silver mines once produced a substantial share of the world's silver. The city has a road network running through old mine tunnels underneath it."
+  ]
+ },
+ {
+  "id": "baja",
+  "name": "Baja California",
+  "lat": 27.5,
+  "lon": -113.0,
+  "kind": "natural",
+  "reach": 150,
+  "wow": 84,
+  "region": "Mexico",
+  "facts": [
+   "A 760-mile peninsula that is tearing away from mainland Mexico along the San Andreas fault system. The Sea of Cortez is a very young ocean, about 5 million years old."
+  ]
+ },
+ {
+  "id": "chihuahua-desert",
+  "name": "Chihuahuan Desert",
+  "lat": 28.5,
+  "lon": -105.5,
+  "kind": "desert",
+  "reach": 150,
+  "wow": 72,
+  "region": "Mexico / USA",
+  "facts": [
+   "The largest desert in North America. Most of it sits above 3,500 feet, which is why it gets snow."
+  ]
+ },
+ {
+  "id": "yucatan-crater",
+  "name": "Chicxulub Crater",
+  "lat": 21.4,
+  "lon": -89.5167,
+  "kind": "science",
+  "reach": 120,
+  "wow": 97,
+  "region": "Yucatán, Mexico",
+  "facts": [
+   "A 110-mile-wide impact crater, mostly buried, from the asteroid that ended the dinosaurs 66 million years ago.",
+   "Its rim shows on the surface as a ring of cenotes — sinkholes — arcing across the Yucatán. You can trace it from up here."
+  ]
+ },
+ {
+  "id": "hawaii",
+  "name": "The Hawaiian Islands",
+  "lat": 20.7984,
+  "lon": -156.3319,
+  "kind": "volcano",
+  "reach": 160,
+  "wow": 92,
+  "region": "Hawaii, USA",
+  "facts": [
+   "The most isolated major island chain on Earth — 2,400 miles from the nearest continent. The Pacific plate is sliding over a stationary hotspot, so the islands get older to the northwest.",
+   "Measured from its base on the sea floor, Mauna Kea is 33,500 feet tall — taller than Everest."
+  ]
+ },
+ {
+  "id": "pacific",
+  "name": "The Pacific Ocean",
+  "lat": 0.0,
+  "lon": -160.0,
+  "kind": "water",
+  "reach": 500,
+  "wow": 85,
+  "region": "Pacific",
+  "facts": [
+   "Bigger than all of Earth's land area combined. There is a point out here — Point Nemo — where the nearest humans are usually the crew of the ISS passing overhead."
+  ],
+  "aviation": "Twin-engine airliners cross this under ETOPS rules, which cap how far they may ever be from a usable airport. An ETOPS-330 aircraft may be up to 5½ hours from the nearest runway."
+ },
+ {
+  "id": "atlantic",
+  "name": "The North Atlantic",
+  "lat": 50.0,
+  "lon": -30.0,
+  "kind": "water",
+  "reach": 400,
+  "wow": 80,
+  "region": "Atlantic",
+  "facts": [],
+  "aviation": "Out here aircraft fly the North Atlantic Tracks — a set of parallel highways redrawn twice a day to sit in the best jet stream. There is no radar over most of the ocean, so aircraft are separated by time and altitude and report position by satellite."
+ },
+ {
+  "id": "bermuda-triangle",
+  "name": "The Bermuda Triangle",
+  "lat": 26.0,
+  "lon": -71.0,
+  "kind": "oddity",
+  "reach": 180,
+  "wow": 78,
+  "region": "Atlantic",
+  "facts": [
+   "Insurers charge no premium for crossing it, and Lloyd's of London has said it is no more dangerous than any comparable stretch of ocean. It is simply very busy water with a lot of weather."
+  ]
+ },
+ {
+  "id": "gibraltar",
+  "name": "Strait of Gibraltar",
+  "lat": 35.95,
+  "lon": -5.6,
+  "kind": "water",
+  "reach": 70,
+  "wow": 84,
+  "region": "Spain / Morocco",
+  "facts": [
+   "Only 8 miles wide at its narrowest. About 5.3 million years ago the Atlantic broke through here and refilled a dry Mediterranean basin, possibly in a couple of years."
+  ]
+ },
+ {
+  "id": "swiss-alps-matterhorn",
+  "name": "The Matterhorn",
+  "lat": 45.9763,
+  "lon": 7.6586,
+  "kind": "mountain",
+  "reach": 60,
+  "wow": 89,
+  "region": "Switzerland / Italy",
+  "facts": [
+   "That four-sided pyramid was carved by glaciers grinding at it from four directions at once."
+  ]
+ },
+ {
+  "id": "istanbul",
+  "name": "Istanbul",
+  "lat": 41.0082,
+  "lon": 28.9784,
+  "kind": "city",
+  "reach": 75,
+  "wow": 87,
+  "region": "Turkey",
+  "facts": [
+   "The only city on two continents. The Bosphorus below carries about 48,000 ships a year — three times the traffic of the Suez Canal."
+  ]
+ },
+ {
+  "id": "greenland-sea-ice",
+  "name": "The Arctic Ocean",
+  "lat": 80.0,
+  "lon": 0.0,
+  "kind": "water",
+  "reach": 400,
+  "wow": 86,
+  "region": "Arctic",
+  "facts": [
+   "The smallest and shallowest ocean, and the only one with a permanent ice cap over its centre."
+  ],
+  "aviation": "Polar routes save hours between North America and Asia but need special approval: fuel that will not freeze, cold-weather survival gear aboard, and a plan for radiation exposure during solar storms, which are strongest near the poles."
+ },
+ {
+  "id": "denali",
+  "name": "Denali",
+  "lat": 63.0692,
+  "lon": -151.007,
+  "kind": "mountain",
+  "reach": 120,
+  "wow": 92,
+  "region": "Alaska, USA",
+  "facts": [
+   "At 20,310 feet it is the highest peak in North America. Measured from base to summit it has the greatest vertical relief of any mountain on land — about 18,000 feet, more than Everest's 12,000 from its plateau."
+  ]
+ },
+ {
+  "id": "salar-uyuni",
+  "name": "Salar de Uyuni",
+  "lat": -20.1338,
+  "lon": -67.4891,
+  "kind": "desert",
+  "reach": 90,
+  "wow": 91,
+  "region": "Bolivia",
+  "facts": [
+   "The world's largest salt flat, 4,000 square miles and so flat that satellites use it to calibrate their altimeters. When a thin layer of water sits on it, it becomes the world's largest mirror."
+  ]
+ },
+ {
+  "id": "panama-canal",
+  "name": "The Panama Canal",
+  "lat": 9.08,
+  "lon": -79.68,
+  "kind": "landmark",
+  "reach": 60,
+  "wow": 85,
+  "region": "Panama",
+  "facts": [
+   "Ships are lifted 85 feet above sea level to cross, using only gravity-fed fresh water from Gatún Lake. Each transit uses about 50 million gallons.",
+   "Because of how the isthmus curves, a ship going from the Atlantic to the Pacific travels south-east."
+  ]
+ },
+ {
+  "id": "faroe",
+  "name": "The Faroe Islands",
+  "lat": 62.0,
+  "lon": -6.7833,
+  "kind": "natural",
+  "reach": 70,
+  "wow": 80,
+  "region": "Denmark",
+  "facts": [
+   "Eighteen volcanic islands in the North Atlantic with more sheep than people and cliffs over 2,300 feet straight out of the sea."
+  ]
+ },
+ {
+  "id": "cordillera-neovolcanica",
+  "name": "Trans-Mexican Volcanic Belt",
+  "lat": 19.5,
+  "lon": -101.0,
+  "kind": "volcano",
+  "reach": 130,
+  "wow": 82,
+  "region": "Mexico",
+  "facts": [
+   "A belt of volcanoes running east–west across Mexico. In 1943 a farmer near here watched a new volcano, Parícutin, erupt out of his cornfield. It grew 1,100 feet in a year."
+  ]
+ },
+ {
+  "id": "colorado-river",
+  "name": "The Colorado River",
+  "lat": 36.0,
+  "lon": -114.7,
+  "kind": "water",
+  "reach": 80,
+  "wow": 76,
+  "region": "USA / Mexico",
+  "facts": [
+   "So heavily used that it usually no longer reaches the sea. Its water supplies about 40 million people across seven states."
+  ]
+ },
+ {
+  "id": "hoover-dam",
+  "name": "Hoover Dam",
+  "lat": 36.0161,
+  "lon": -114.7377,
+  "kind": "landmark",
+  "reach": 45,
+  "wow": 83,
+  "region": "Nevada / Arizona, USA",
+  "facts": [
+   "The concrete was poured in interlocking blocks with cooling pipes running through them. Poured as one mass it would have taken 125 years to cool and cracked itself apart."
+  ]
+ },
+ {
+  "id": "cascades",
+  "name": "The Cascade Range",
+  "lat": 45.5,
+  "lon": -121.7,
+  "kind": "mountain",
+  "reach": 140,
+  "wow": 85,
+  "region": "USA",
+  "facts": [
+   "A chain of volcanoes from British Columbia to northern California, sitting above the Cascadia subduction zone. Thirteen of them are considered active."
+  ]
+ },
+ {
+  "id": "appalachians",
+  "name": "The Appalachians",
+  "lat": 38.5,
+  "lon": -79.5,
+  "kind": "mountain",
+  "reach": 130,
+  "wow": 74,
+  "region": "USA",
+  "facts": [
+   "Older than bones, trees, and Saturn's rings — around 480 million years. They were once Himalayan in height and have been eroding ever since.",
+   "The same range continues in Scotland and Morocco: it was one mountain chain before the Atlantic opened."
+  ]
+ },
+ {
+  "id": "salton-sea",
+  "name": "The Salton Sea",
+  "lat": 33.3,
+  "lon": -115.8,
+  "kind": "water",
+  "reach": 55,
+  "wow": 79,
+  "region": "California, USA",
+  "facts": [
+   "Created by accident in 1905 when an irrigation canal failed and the Colorado River poured into the basin for 18 months. It is now saltier than the ocean and shrinking."
+  ]
+ },
+ {
+  "id": "mojave-boneyard",
+  "name": "Mojave Air & Space Port",
+  "lat": 35.0594,
+  "lon": -118.152,
+  "kind": "aviation",
+  "reach": 55,
+  "wow": 88,
+  "region": "California, USA",
+  "facts": [],
+  "aviation": "Those rows of parked airliners are a storage boneyard — the desert air is dry enough that aircraft can sit for years without corroding. SpaceShipOne, the first privately funded crewed spacecraft, flew from this runway in 2004."
+ },
+ {
+  "id": "edwards-afb",
+  "name": "Edwards Air Force Base",
+  "lat": 34.9054,
+  "lon": -117.8836,
+  "kind": "aviation",
+  "reach": 65,
+  "wow": 93,
+  "region": "California, USA",
+  "facts": [],
+  "aviation": "Rogers Dry Lake gives a natural runway seven miles long. Chuck Yeager broke the sound barrier over this base on 14 October 1947 in the Bell X-1, flying with two broken ribs and a broom handle rigged to close the hatch. The Space Shuttle landed here 54 times."
+ },
+ {
+  "id": "wichita",
+  "name": "Wichita",
+  "lat": 37.6872,
+  "lon": -97.3301,
+  "kind": "aviation",
+  "reach": 60,
+  "wow": 79,
+  "region": "Kansas, USA",
+  "facts": [],
+  "aviation": "The 'Air Capital of the World'. Cessna, Beechcraft, Learjet and Stearman were all founded here, and a large share of the world's general aviation aircraft have been built within a few miles of that runway."
+ },
+ {
+  "id": "everett",
+  "name": "Everett, Washington",
+  "lat": 47.9063,
+  "lon": -122.2816,
+  "kind": "aviation",
+  "reach": 50,
+  "wow": 86,
+  "region": "Washington, USA",
+  "facts": [],
+  "aviation": "The Boeing Everett factory below is the largest building on Earth by volume. The 747, 767, 777 and 787 have all been assembled here."
+ },
+ {
+  "id": "toulouse",
+  "name": "Toulouse",
+  "lat": 43.6047,
+  "lon": 1.4442,
+  "kind": "aviation",
+  "reach": 60,
+  "wow": 83,
+  "region": "France",
+  "facts": [],
+  "aviation": "Airbus final assembly. A350 and A320 fuselage sections arrive here by a fleet of Beluga transport aircraft — converted A300s with a hinged nose and a hold big enough to swallow a whole wing."
+ },
+ {
+  "id": "tucson-boneyard",
+  "name": "Davis-Monthan Boneyard",
+  "lat": 32.1667,
+  "lon": -110.8833,
+  "kind": "aviation",
+  "reach": 50,
+  "wow": 89,
+  "region": "Arizona, USA",
+  "facts": [],
+  "aviation": "About 4,000 aircraft parked in the desert — the largest aircraft storage facility in the world. The ground is hard caliche, firm enough to park a bomber on without a paved surface."
+ },
+ {
+  "id": "great-lakes-superior",
+  "name": "Lake Superior",
+  "lat": 47.7,
+  "lon": -87.5,
+  "kind": "water",
+  "reach": 140,
+  "wow": 84,
+  "region": "USA / Canada",
+  "facts": [
+   "The largest freshwater lake in the world by surface area. It holds enough water to cover all of North and South America a foot deep.",
+   "It is cold enough that it does not fully mix, and shipwrecks on the bottom are extraordinarily well preserved."
+  ]
+ },
+ {
+  "id": "st-louis",
+  "name": "St. Louis",
+  "lat": 38.627,
+  "lon": -90.1994,
+  "kind": "city",
+  "reach": 65,
+  "wow": 76,
+  "region": "Missouri, USA",
+  "facts": [
+   "The Gateway Arch is 630 feet tall and 630 feet wide — a weighted catenary, the shape a hanging chain makes upside down."
+  ],
+  "aviation": "The Spirit of St. Louis was named for the businessmen here who funded Lindbergh's 1927 solo Atlantic crossing. He had no forward windscreen — the fuel tank was in the way — and navigated using a periscope and dead reckoning."
+ },
+ {
+  "id": "dallas",
+  "name": "Dallas–Fort Worth",
+  "lat": 32.7767,
+  "lon": -96.797,
+  "kind": "city",
+  "reach": 75,
+  "wow": 75,
+  "region": "Texas, USA",
+  "facts": [],
+  "aviation": "DFW airport is larger than the island of Manhattan. It has its own postal code, its own police and fire departments, and five terminals arranged in semicircles so no gate is a long walk from the kerb."
+ },
+ {
+  "id": "atlanta",
+  "name": "Atlanta",
+  "lat": 33.749,
+  "lon": -84.388,
+  "kind": "city",
+  "reach": 70,
+  "wow": 76,
+  "region": "Georgia, USA",
+  "facts": [],
+  "aviation": "Hartsfield–Jackson has been the world's busiest airport by passenger count for most of the last 25 years — over 100 million people a year. The running joke is that whether you are going to heaven or the other place, you connect through Atlanta."
+ },
+ {
+  "id": "phoenix",
+  "name": "Phoenix",
+  "lat": 33.4484,
+  "lon": -112.074,
+  "kind": "city",
+  "reach": 75,
+  "wow": 73,
+  "region": "Arizona, USA",
+  "facts": [
+   "The canals irrigating the valley follow routes dug by the Hohokam over a thousand years ago — modern Phoenix reuses their alignment."
+  ],
+  "aviation": "It gets hot enough here that flights are occasionally cancelled: above about 118°F the air is too thin for some aircraft's published performance charts to cover."
+ },
+ {
+  "id": "albuquerque",
+  "name": "Albuquerque",
+  "lat": 35.0844,
+  "lon": -106.6504,
+  "kind": "city",
+  "reach": 65,
+  "wow": 74,
+  "region": "New Mexico, USA",
+  "facts": [
+   "The 'Albuquerque Box' — a stack of winds blowing opposite directions at different altitudes — lets balloonists take off, drift away, climb, and come back to where they started. It is why the world's largest balloon fiesta is here."
+  ]
+ },
+ {
+  "id": "salt-lake-city",
+  "name": "Salt Lake City",
+  "lat": 40.7608,
+  "lon": -111.891,
+  "kind": "city",
+  "reach": 65,
+  "wow": 73,
+  "region": "Utah, USA",
+  "facts": [
+   "The street grid is numbered outward from Temple Square, so an address is effectively a coordinate. Blocks are 660 feet — sized so a wagon team could turn around."
+  ]
+ },
+ {
+  "id": "minneapolis",
+  "name": "Minneapolis–St. Paul",
+  "lat": 44.9778,
+  "lon": -93.265,
+  "kind": "city",
+  "reach": 65,
+  "wow": 72,
+  "region": "Minnesota, USA",
+  "facts": [
+   "Downtown Minneapolis has about 9.5 miles of enclosed skyways connecting 80 blocks, so you can cross the city in January without going outside."
+  ]
+ },
+ {
+  "id": "detroit",
+  "name": "Detroit",
+  "lat": 42.3314,
+  "lon": -83.0458,
+  "kind": "city",
+  "reach": 65,
+  "wow": 72,
+  "region": "Michigan, USA",
+  "facts": [
+   "Because of how the river bends, Windsor, Canada is south of Detroit — the only place where you cross south into Canada from the US."
+  ]
+ },
+ {
+  "id": "kansas-city",
+  "name": "Kansas City",
+  "lat": 39.0997,
+  "lon": -94.5786,
+  "kind": "city",
+  "reach": 60,
+  "wow": 70,
+  "region": "Missouri, USA",
+  "facts": [
+   "Claims more boulevards than Paris and more fountains than any city except Rome."
+  ]
+ },
+ {
+  "id": "pittsburgh",
+  "name": "Pittsburgh",
+  "lat": 40.4406,
+  "lon": -79.9959,
+  "kind": "city",
+  "reach": 60,
+  "wow": 74,
+  "region": "Pennsylvania, USA",
+  "facts": [
+   "446 bridges — more than any other city in the world, Venice included. Three rivers meet at the point down there."
+  ]
+ },
+ {
+  "id": "great-bear-boreal",
+  "name": "The Boreal Forest",
+  "lat": 55.0,
+  "lon": -100.0,
+  "kind": "natural",
+  "reach": 250,
+  "wow": 78,
+  "region": "Canada",
+  "facts": [
+   "A ring of forest around the northern hemisphere holding about a third of the world's trees, and more surface fresh water than anywhere else on Earth. Those countless lakes are scars left by retreating glaciers."
+  ]
+ },
+ {
+  "id": "hudson-bay",
+  "name": "Hudson Bay",
+  "lat": 60.0,
+  "lon": -86.0,
+  "kind": "water",
+  "reach": 200,
+  "wow": 82,
+  "region": "Canada",
+  "facts": [
+   "Gravity is measurably weaker here than anywhere else on Earth — the ice sheet that sat on this spot pressed the crust down, and 10,000 years later it is still springing back."
+  ]
+ },
+ {
+  "id": "aleutians",
+  "name": "The Aleutian Islands",
+  "lat": 52.0,
+  "lon": -175.0,
+  "kind": "volcano",
+  "reach": 200,
+  "wow": 84,
+  "region": "Alaska, USA",
+  "facts": [
+   "A 1,200-mile arc of volcanic islands where the Pacific plate dives under North America. Some of the worst flying weather on Earth."
+  ],
+  "aviation": "Great-circle routes between North America and Asia arc up over here — which surprises people who expect to fly straight across the Pacific. On a flat map it looks like a detour; on a globe it is the short way."
+ },
+ {
+  "id": "ozarks",
+  "name": "The Ozarks",
+  "lat": 36.6,
+  "lon": -92.5,
+  "kind": "natural",
+  "reach": 90,
+  "wow": 71,
+  "region": "Missouri / Arkansas, USA",
+  "facts": [
+   "Not really mountains — an ancient limestone plateau that rivers have cut into. It is riddled with caves; Missouri has over 7,500 of them."
+  ]
+ },
+ {
+  "id": "outer-banks",
+  "name": "The Outer Banks",
+  "lat": 35.5582,
+  "lon": -75.4665,
+  "kind": "natural",
+  "reach": 70,
+  "wow": 79,
+  "region": "North Carolina, USA",
+  "facts": [
+   "A chain of barrier islands that physically migrate landward over decades. The Cape Hatteras lighthouse had to be picked up and moved 2,900 feet inland in 1999."
+  ]
+ },
+ {
+  "id": "long-island-sound",
+  "name": "Long Island",
+  "lat": 40.8,
+  "lon": -73.0,
+  "kind": "natural",
+  "reach": 70,
+  "wow": 71,
+  "region": "New York, USA",
+  "facts": [
+   "The island is a terminal moraine — a 118-mile pile of rubble bulldozed into place and left behind by the last ice sheet."
+  ]
+ },
+ {
+  "id": "chesapeake",
+  "name": "Chesapeake Bay",
+  "lat": 38.0,
+  "lon": -76.2,
+  "kind": "water",
+  "reach": 80,
+  "wow": 76,
+  "region": "USA",
+  "facts": [
+   "The largest estuary in the United States, and partly the flooded valley of the Susquehanna River. A 35-million-year-old impact crater sits under its mouth."
+  ]
+ },
+ {
+  "id": "copper-canyon",
+  "name": "Copper Canyon",
+  "lat": 27.3,
+  "lon": -107.8,
+  "kind": "natural",
+  "reach": 95,
+  "wow": 88,
+  "region": "Chihuahua, Mexico",
+  "facts": [
+   "A network of six canyons, several deeper than the Grand Canyon. The Chihuahua al Pacífico railway crosses it on 37 bridges and through 86 tunnels."
+  ]
+ },
+ {
+  "id": "sonoran",
+  "name": "Sonoran Desert",
+  "lat": 32.0,
+  "lon": -112.5,
+  "kind": "desert",
+  "reach": 130,
+  "wow": 80,
+  "region": "Arizona / Mexico",
+  "facts": [
+   "The only place on Earth where saguaro cactus grows wild. A saguaro takes about 70 years to grow its first arm and can live 200 years."
+  ]
+ },
+ {
+  "id": "gulf-california",
+  "name": "Sea of Cortez",
+  "lat": 27.5,
+  "lon": -111.5,
+  "kind": "water",
+  "reach": 140,
+  "wow": 85,
+  "region": "Mexico",
+  "facts": [
+   "Jacques Cousteau called it the world's aquarium. It holds around 900 fish species and a third of the planet's marine mammal species."
+  ]
+ },
+ {
+  "id": "popo-izta",
+  "name": "Iztaccíhuatl",
+  "lat": 19.179,
+  "lon": -98.642,
+  "kind": "volcano",
+  "reach": 70,
+  "wow": 84,
+  "region": "Mexico",
+  "facts": [
+   "The 'sleeping woman' — its ridgeline really does read as a reclining figure. At 17,160 ft it's the third-highest peak in Mexico and is dormant, unlike its smoking neighbour."
+  ]
+ },
+ {
+  "id": "teotihuacan",
+  "name": "Teotihuacán",
+  "lat": 19.6925,
+  "lon": -98.8438,
+  "kind": "ancient",
+  "reach": 55,
+  "wow": 90,
+  "region": "Mexico",
+  "facts": [
+   "At its peak around 500 CE this was one of the largest cities in the world, with perhaps 125,000 people. We still don't know what its builders called themselves — the Aztecs found it already abandoned and named it."
+  ]
+ },
+ {
+  "id": "rio-grande",
+  "name": "The Rio Grande",
+  "lat": 29.5,
+  "lon": -101.5,
+  "kind": "water",
+  "reach": 110,
+  "wow": 79,
+  "region": "USA / Mexico",
+  "facts": [
+   "It forms 1,254 miles of international border. In dry years it no longer reaches the Gulf — the water is fully allocated before it gets there."
+  ]
+ },
+ {
+  "id": "big-bend",
+  "name": "Big Bend",
+  "lat": 29.25,
+  "lon": -103.25,
+  "kind": "natural",
+  "reach": 85,
+  "wow": 82,
+  "region": "Texas, USA",
+  "facts": [
+   "Some of the darkest night skies in the continental US — on a clear night you can see roughly 2,000 stars, against a few dozen from a city."
+  ]
+ },
+ {
+  "id": "carlsbad",
+  "name": "Carlsbad Caverns",
+  "lat": 32.1479,
+  "lon": -104.5567,
+  "kind": "natural",
+  "reach": 60,
+  "wow": 84,
+  "region": "New Mexico, USA",
+  "facts": [
+   "The Big Room is a single chamber large enough to hold six football fields. Around 400,000 bats pour out of the entrance at dusk in summer."
+  ]
+ },
+ {
+  "id": "padre-island",
+  "name": "Padre Island",
+  "lat": 27.0,
+  "lon": -97.3,
+  "kind": "natural",
+  "reach": 70,
+  "wow": 76,
+  "region": "Texas, USA",
+  "facts": [
+   "The longest barrier island in the world at 113 miles. Its position on the Gulf makes it a collection point for debris from across the entire basin."
+  ]
+ },
+ {
+  "id": "okefenokee",
+  "name": "Okefenokee Swamp",
+  "lat": 30.75,
+  "lon": -82.35,
+  "kind": "natural",
+  "reach": 65,
+  "wow": 78,
+  "region": "Georgia, USA",
+  "facts": [
+   "The name means 'trembling earth' — peat deposits float on the water and shake underfoot. It's the source of the Suwannee River."
+  ]
+ },
+ {
+  "id": "smokies",
+  "name": "Great Smoky Mountains",
+  "lat": 35.65,
+  "lon": -83.5,
+  "kind": "mountain",
+  "reach": 90,
+  "wow": 82,
+  "region": "Tennessee / N. Carolina",
+  "facts": [
+   "The haze is real and natural: the trees release volatile organic compounds that scatter blue light. More tree species grow here than in all of northern Europe."
+  ]
+ },
+ {
+  "id": "shenandoah",
+  "name": "Shenandoah Valley",
+  "lat": 38.6,
+  "lon": -78.6,
+  "kind": "natural",
+  "reach": 80,
+  "wow": 74,
+  "region": "Virginia, USA",
+  "facts": [
+   "Skyway ridges below you are part of the Blue Ridge, among the oldest mountains on Earth. Underneath is limestone karst riddled with caverns."
+  ]
+ },
+ {
+  "id": "finger-lakes",
+  "name": "The Finger Lakes",
+  "lat": 42.7,
+  "lon": -76.8,
+  "kind": "water",
+  "reach": 70,
+  "wow": 77,
+  "region": "New York, USA",
+  "facts": [
+   "Eleven long narrow lakes gouged by glaciers moving south. Seneca Lake is 618 feet deep — its bottom is well below sea level."
+  ]
+ },
+ {
+  "id": "adirondacks",
+  "name": "The Adirondacks",
+  "lat": 44.1,
+  "lon": -74.0,
+  "kind": "mountain",
+  "reach": 95,
+  "wow": 79,
+  "region": "New York, USA",
+  "facts": [
+   "A six-million-acre park, larger than Yellowstone, Yosemite, Grand Canyon and Glacier combined. Unusually, it's a patchwork of public and private land."
+  ]
+ },
+ {
+  "id": "cape-cod",
+  "name": "Cape Cod",
+  "lat": 41.7,
+  "lon": -70.2,
+  "kind": "natural",
+  "reach": 60,
+  "wow": 78,
+  "region": "Massachusetts, USA",
+  "facts": [
+   "A glacial deposit shaped like a flexed arm, and actively eroding — the outer beach retreats about three feet a year."
+  ]
+ },
+ {
+  "id": "acadia",
+  "name": "Acadia / Bar Harbor",
+  "lat": 44.35,
+  "lon": -68.2,
+  "kind": "natural",
+  "reach": 55,
+  "wow": 79,
+  "region": "Maine, USA",
+  "facts": [
+   "Cadillac Mountain is the first place in the continental US to see sunrise for part of the year — a distinction that shifts seasonally with the sun's angle."
+  ]
+ },
+ {
+  "id": "boundary-waters",
+  "name": "Boundary Waters",
+  "lat": 47.9,
+  "lon": -91.3,
+  "kind": "water",
+  "reach": 90,
+  "wow": 80,
+  "region": "Minnesota, USA",
+  "facts": [
+   "Over 1,100 lakes linked by portage trails, in a million-acre wilderness where motors are banned. Some of the exposed rock here is over 2.7 billion years old."
+  ]
+ },
+ {
+  "id": "sand-hills",
+  "name": "Nebraska Sand Hills",
+  "lat": 42.0,
+  "lon": -101.5,
+  "kind": "desert",
+  "reach": 110,
+  "wow": 78,
+  "region": "Nebraska, USA",
+  "facts": [
+   "The largest sand dune field in the western hemisphere — 20,000 square miles of dunes, stabilised by grass. Underneath sits the Ogallala Aquifer."
+  ]
+ },
+ {
+  "id": "flint-hills",
+  "name": "The Flint Hills",
+  "lat": 38.4,
+  "lon": -96.5,
+  "kind": "natural",
+  "reach": 80,
+  "wow": 76,
+  "region": "Kansas, USA",
+  "facts": [
+   "The last large stand of tallgrass prairie on Earth. It survived because the limestone is too close to the surface to plough — 96% of the rest was converted to cropland."
+  ]
+ },
+ {
+  "id": "great-basin",
+  "name": "The Great Basin",
+  "lat": 39.5,
+  "lon": -117.0,
+  "kind": "desert",
+  "reach": 160,
+  "wow": 79,
+  "region": "Nevada, USA",
+  "facts": [
+   "No water leaves this region. Every river and stream drains inward and evaporates — an area larger than Germany with no outlet to any ocean."
+  ]
+ },
+ {
+  "id": "columbia-gorge",
+  "name": "Columbia River Gorge",
+  "lat": 45.7,
+  "lon": -121.6,
+  "kind": "natural",
+  "reach": 70,
+  "wow": 81,
+  "region": "Oregon / Washington",
+  "facts": [
+   "The only near-sea-level route through the Cascades, cut by catastrophic ice-age floods that emptied a lake the size of Lake Ontario in about 48 hours."
+  ]
+ },
+ {
+  "id": "channeled-scablands",
+  "name": "The Channeled Scablands",
+  "lat": 47.2,
+  "lon": -118.5,
+  "kind": "natural",
+  "reach": 95,
+  "wow": 84,
+  "region": "Washington, USA",
+  "facts": [
+   "Those bizarre scoured channels were carved by the Missoula floods — walls of water 400 feet high moving at 65 mph, repeatedly, at the end of the last ice age."
+  ]
+ },
+ {
+  "id": "olympic",
+  "name": "Olympic Peninsula",
+  "lat": 47.8,
+  "lon": -123.6,
+  "kind": "natural",
+  "reach": 85,
+  "wow": 81,
+  "region": "Washington, USA",
+  "facts": [
+   "Temperate rainforest getting 12 to 14 feet of rain a year sits about 30 miles from a rain shadow that gets 16 inches. The mountains in between do all of it."
+  ]
+ },
+ {
+  "id": "glacier-np",
+  "name": "Glacier National Park",
+  "lat": 48.7,
+  "lon": -113.8,
+  "kind": "mountain",
+  "reach": 80,
+  "wow": 85,
+  "region": "Montana, USA",
+  "facts": [
+   "Of about 150 glaciers present in 1850, roughly 25 remain large enough to count. The rock here is stacked in visible bands — some of the best-preserved ancient sedimentary layers anywhere."
+  ]
+ },
+ {
+  "id": "banff",
+  "name": "Banff & Lake Louise",
+  "lat": 51.4,
+  "lon": -116.2,
+  "kind": "mountain",
+  "reach": 85,
+  "wow": 86,
+  "region": "Alberta, Canada",
+  "facts": [
+   "The lakes are that colour because glaciers grind rock into flour so fine it stays suspended and scatters blue-green light."
+  ]
+ },
+ {
+  "id": "canadian-shield",
+  "name": "The Canadian Shield",
+  "lat": 52.0,
+  "lon": -92.0,
+  "kind": "natural",
+  "reach": 220,
+  "wow": 76,
+  "region": "Canada",
+  "facts": [
+   "Some of the oldest exposed rock on the planet, up to four billion years. The countless lakes are scars where glaciers gouged out softer rock."
+  ]
+ },
+ {
+  "id": "bay-of-fundy",
+  "name": "Bay of Fundy",
+  "lat": 45.3,
+  "lon": -65.0,
+  "kind": "water",
+  "reach": 70,
+  "wow": 86,
+  "region": "Canada",
+  "facts": [
+   "The highest tides on Earth — up to 53 feet. About 100 billion tonnes of water move in and out twice a day, more than every freshwater river on the planet combined."
+  ]
+ },
+ {
+  "id": "labrador",
+  "name": "The Labrador Coast",
+  "lat": 55.0,
+  "lon": -60.0,
+  "kind": "natural",
+  "reach": 150,
+  "wow": 78,
+  "region": "Canada",
+  "facts": [
+   "A fjord coastline carved by ice, and iceberg alley — bergs calved off Greenland drift south past here every spring."
+  ]
+ },
+ {
+  "id": "baffin",
+  "name": "Baffin Island",
+  "lat": 68.0,
+  "lon": -70.0,
+  "kind": "natural",
+  "reach": 200,
+  "wow": 84,
+  "region": "Nunavut, Canada",
+  "facts": [
+   "The fifth-largest island in the world, with granite cliffs like Mount Thor — a 4,100-foot face that includes the greatest purely vertical drop on Earth."
+  ]
+ },
+ {
+  "id": "scottish-highlands",
+  "name": "The Scottish Highlands",
+  "lat": 57.0,
+  "lon": -4.8,
+  "kind": "mountain",
+  "reach": 100,
+  "wow": 82,
+  "region": "Scotland",
+  "facts": [
+   "The Great Glen below is a fault line running clean across the country. Loch Ness sits in it and holds more fresh water than every lake in England and Wales together."
+  ]
+ },
+ {
+  "id": "norwegian-fjords",
+  "name": "The Norwegian Fjords",
+  "lat": 61.5,
+  "lon": 6.5,
+  "kind": "water",
+  "reach": 110,
+  "wow": 88,
+  "region": "Norway",
+  "facts": [
+   "Sognefjord runs 127 miles inland and is 4,290 feet deep — glaciers carved well below sea level because ice, unlike rivers, doesn't stop at the coast."
+  ]
+ },
+ {
+  "id": "pyrenees",
+  "name": "The Pyrenees",
+  "lat": 42.7,
+  "lon": 0.7,
+  "kind": "mountain",
+  "reach": 100,
+  "wow": 80,
+  "region": "France / Spain",
+  "facts": [
+   "A 305-mile wall between France and Spain with only a handful of practical crossings, which is why the two countries developed so separately."
+  ]
+ },
+ {
+  "id": "dolomites",
+  "name": "The Dolomites",
+  "lat": 46.4,
+  "lon": 11.9,
+  "kind": "mountain",
+  "reach": 75,
+  "wow": 86,
+  "region": "Italy",
+  "facts": [
+   "Pale vertical towers made of fossilised coral reef. These peaks were a tropical sea floor about 250 million years ago."
+  ]
+ },
+ {
+  "id": "santorini",
+  "name": "Santorini",
+  "lat": 36.4,
+  "lon": 25.4,
+  "kind": "volcano",
+  "reach": 50,
+  "wow": 89,
+  "region": "Greece",
+  "facts": [
+   "The crescent shape is the rim of a caldera left by one of the largest eruptions in human history, around 1600 BCE — plausibly the origin of the Atlantis story."
+  ]
+ },
+ {
+  "id": "bosphorus",
+  "name": "The Bosphorus",
+  "lat": 41.1,
+  "lon": 29.05,
+  "kind": "water",
+  "reach": 45,
+  "wow": 83,
+  "region": "Turkey",
+  "facts": [
+   "A drowned river valley connecting the Black Sea to the Mediterranean, and the boundary between Europe and Asia. Currents run in opposite directions at different depths."
+  ]
+ },
+ {
+  "id": "caspian",
+  "name": "The Caspian Sea",
+  "lat": 41.0,
+  "lon": 50.5,
+  "kind": "water",
+  "reach": 200,
+  "wow": 82,
+  "region": "Central Asia",
+  "facts": [
+   "The largest inland body of water on Earth — bigger than Germany. Whether it's legally a sea or a lake determined how five countries split its oil, and took decades to settle."
+  ]
+ },
+ {
+  "id": "aral",
+  "name": "The Aral Sea basin",
+  "lat": 45.0,
+  "lon": 59.5,
+  "kind": "water",
+  "reach": 150,
+  "wow": 86,
+  "region": "Kazakhstan / Uzbekistan",
+  "facts": [
+   "Once the fourth-largest lake in the world. Soviet irrigation diverted its rivers and it lost about 90% of its volume — ships now sit on dry salt flats miles from water."
+  ]
+ },
+ {
+  "id": "himalaya-k2",
+  "name": "The Karakoram",
+  "lat": 35.9,
+  "lon": 76.5,
+  "kind": "mountain",
+  "reach": 130,
+  "wow": 92,
+  "region": "Pakistan / China",
+  "facts": [
+   "The greatest concentration of high peaks anywhere: four of the world's five highest mountains sit within 12 miles of each other. K2 has killed roughly one climber for every four who summit."
+  ]
+ },
+ {
+  "id": "angkor",
+  "name": "Angkor",
+  "lat": 13.412,
+  "lon": 103.867,
+  "kind": "ancient",
+  "reach": 55,
+  "wow": 91,
+  "region": "Cambodia",
+  "facts": [
+   "The largest pre-industrial urban complex ever found — a low-density city of perhaps 900,000 people spread over 400 square miles, revealed by airborne laser scanning."
+  ]
+ },
+ {
+  "id": "halong",
+  "name": "Ha Long Bay",
+  "lat": 20.9,
+  "lon": 107.1,
+  "kind": "water",
+  "reach": 55,
+  "wow": 87,
+  "region": "Vietnam",
+  "facts": [
+   "Around 1,600 limestone karst towers rising straight out of the sea — a drowned landscape of what were once cave systems and hills."
+  ]
+ },
+ {
+  "id": "mount-everest",
+  "name": "Mount Everest",
+  "lat": 27.9881,
+  "lon": 86.925,
+  "kind": "mountain",
+  "reach": 120,
+  "wow": 97,
+  "region": "Nepal / China",
+  "facts": [
+   "The summit is roughly the altitude airliners cruise at. Air pressure up there is about a third of sea level, which is why the last 3,000 feet are called the death zone."
+  ]
+ },
+ {
+  "id": "borneo",
+  "name": "Borneo",
+  "lat": 1.0,
+  "lon": 114.0,
+  "kind": "natural",
+  "reach": 200,
+  "wow": 84,
+  "region": "Asia",
+  "facts": [
+   "The third-largest island in the world and one of the oldest rainforests, around 130 million years. Its rivers run visibly brown with sediment where forest has been cleared."
+  ]
+ },
+ {
+  "id": "serengeti",
+  "name": "The Serengeti",
+  "lat": -2.3,
+  "lon": 34.8,
+  "kind": "natural",
+  "reach": 120,
+  "wow": 89,
+  "region": "Tanzania",
+  "facts": [
+   "Around 1.5 million wildebeest move through here on an annual circuit — the largest land mammal migration left on Earth, and it's visible from the air as dark rivers of animals."
+  ]
+ },
+ {
+  "id": "victoria-falls",
+  "name": "Victoria Falls",
+  "lat": -17.9243,
+  "lon": 25.8572,
+  "kind": "water",
+  "reach": 60,
+  "wow": 91,
+  "region": "Zambia / Zimbabwe",
+  "facts": [
+   "The largest curtain of falling water in the world — a mile wide and 355 feet high. Its spray plume rises 1,300 feet and is visible from 30 miles away."
+  ]
+ },
+ {
+  "id": "namib",
+  "name": "The Namib Desert",
+  "lat": -24.5,
+  "lon": 15.3,
+  "kind": "desert",
+  "reach": 110,
+  "wow": 89,
+  "region": "Namibia",
+  "facts": [
+   "Possibly the oldest desert on Earth at 55 million years. The dunes at Sossusvlei reach 1,000 feet, and their deep red comes from iron oxidising over millennia."
+  ]
+ },
+ {
+  "id": "madagascar",
+  "name": "Madagascar",
+  "lat": -19.0,
+  "lon": 46.8,
+  "kind": "natural",
+  "reach": 180,
+  "wow": 87,
+  "region": "Madagascar",
+  "facts": [
+   "Isolated for around 88 million years, so roughly 90% of its wildlife exists nowhere else. From the air the eastern rivers run blood-red with eroded soil."
+  ]
+ },
+ {
+  "id": "galapagos",
+  "name": "The Galápagos",
+  "lat": -0.6,
+  "lon": -90.5,
+  "kind": "volcano",
+  "reach": 100,
+  "wow": 92,
+  "region": "Ecuador",
+  "facts": [
+   "Volcanic islands on a hotspot, 600 miles from the mainland. Species arrived by chance on rafts of vegetation and diverged — which is the observation that produced natural selection."
+  ]
+ },
+ {
+  "id": "titicaca",
+  "name": "Lake Titicaca",
+  "lat": -15.8,
+  "lon": -69.4,
+  "kind": "water",
+  "reach": 80,
+  "wow": 84,
+  "region": "Peru / Bolivia",
+  "facts": [
+   "The highest large navigable lake in the world at 12,507 feet. Local communities live on floating islands built from layered totora reed."
+  ]
+ },
+ {
+  "id": "iguazu",
+  "name": "Iguazú Falls",
+  "lat": -25.6953,
+  "lon": -54.4367,
+  "kind": "water",
+  "reach": 55,
+  "wow": 90,
+  "region": "Argentina / Brazil",
+  "facts": [
+   "Around 275 separate falls across nearly two miles. On seeing it, Eleanor Roosevelt reportedly said 'poor Niagara'."
+  ]
+ },
+ {
+  "id": "patagonia-ice",
+  "name": "Southern Patagonian Ice Field",
+  "lat": -49.5,
+  "lon": -73.3,
+  "kind": "natural",
+  "reach": 120,
+  "wow": 88,
+  "region": "Chile / Argentina",
+  "facts": [
+   "The largest ice mass in the southern hemisphere outside Antarctica — about 4,800 square miles. Perito Moreno is one of very few glaciers on Earth not currently retreating."
+  ]
+ },
+ {
+  "id": "nazca",
+  "name": "The Nazca Lines",
+  "lat": -14.739,
+  "lon": -75.13,
+  "kind": "ancient",
+  "reach": 55,
+  "wow": 90,
+  "region": "Peru",
+  "facts": [
+   "Hundreds of geoglyphs, some over 1,200 feet across, made by clearing dark stones off pale ground. They survive because it essentially never rains — and they are only legible from the air."
+  ]
+ },
+ {
+  "id": "great-rift",
+  "name": "The Great Rift Valley",
+  "lat": 0.5,
+  "lon": 36.0,
+  "kind": "natural",
+  "reach": 180,
+  "wow": 86,
+  "region": "East Africa",
+  "facts": [
+   "A continent tearing itself apart. East Africa is separating from the rest at a few millimetres a year, and in ten million years or so there will be an ocean here."
+  ]
+ },
+ {
+  "id": "dead-sea",
+  "name": "The Dead Sea",
+  "lat": 31.5,
+  "lon": 35.5,
+  "kind": "water",
+  "reach": 55,
+  "wow": 89,
+  "region": "Israel / Jordan",
+  "facts": [
+   "The lowest land on Earth at about 1,410 feet below sea level, and dropping over three feet a year as the Jordan River is diverted upstream."
+  ]
+ },
+ {
+  "id": "bering",
+  "name": "The Bering Strait",
+  "lat": 65.8,
+  "lon": -169.0,
+  "kind": "water",
+  "reach": 120,
+  "wow": 83,
+  "region": "USA / Russia",
+  "facts": [
+   "Only 51 miles between continents, with two islands in the middle — one American, one Russian, about 2.4 miles apart and 21 hours apart across the date line."
+  ]
+ }
+]

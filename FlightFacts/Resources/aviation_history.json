@@ -1,0 +1,456 @@
+{
+ "onThisDay": [
+  {
+   "month": 12,
+   "day": 17,
+   "year": 1903,
+   "title": "The first flight",
+   "text": "Orville Wright flew 120 feet in 12 seconds at Kill Devil Hills. Four flights were made that day; the last covered 852 feet. The aircraft was destroyed by a gust the same afternoon."
+  },
+  {
+   "month": 1,
+   "day": 1,
+   "year": 1914,
+   "title": "The first airline",
+   "text": "The St. Petersburg–Tampa Airboat Line flew the first scheduled passenger service. One passenger, 23 minutes, 18 miles across Tampa Bay. The fare was $5 — about $150 today."
+  },
+  {
+   "month": 6,
+   "day": 15,
+   "year": 1919,
+   "title": "First non-stop Atlantic crossing",
+   "text": "Alcock and Brown landed in an Irish bog after 16 hours from Newfoundland. Their radio failed, they flew through fog with no horizon, and Brown reportedly climbed onto the wings in flight to clear ice off the engine intakes."
+  },
+  {
+   "month": 8,
+   "day": 25,
+   "year": 1919,
+   "title": "First daily international service",
+   "text": "Aircraft Transport and Travel began daily London–Paris flights. The single passenger on the first service shared the cabin with newspapers, grouse and a few jars of cream."
+  },
+  {
+   "month": 5,
+   "day": 21,
+   "year": 1927,
+   "title": "Lindbergh lands in Paris",
+   "text": "33.5 hours alone from New York. He had no forward windscreen — the extra fuel tank blocked it — and used a periscope. A crowd of about 150,000 tore souvenirs off the aircraft when he landed."
+  },
+  {
+   "month": 6,
+   "day": 18,
+   "year": 1928,
+   "title": "Earhart crosses the Atlantic",
+   "text": "Amelia Earhart became the first woman to cross the Atlantic by air, as a passenger. She said afterwards she had been 'just baggage, like a sack of potatoes' — and set out to do it herself."
+  },
+  {
+   "month": 5,
+   "day": 20,
+   "year": 1932,
+   "title": "Earhart flies it solo",
+   "text": "Five years to the day after Lindbergh, Earhart flew the Atlantic alone in just under 15 hours, landing in a field in Northern Ireland. A farmhand asked if she had come far."
+  },
+  {
+   "month": 7,
+   "day": 2,
+   "year": 1937,
+   "title": "Earhart disappears",
+   "text": "Earhart and navigator Fred Noonan vanished over the Pacific approaching Howland Island — a flat speck under two miles long. The search was the most expensive in US history to that point."
+  },
+  {
+   "month": 10,
+   "day": 14,
+   "year": 1947,
+   "title": "The sound barrier",
+   "text": "Chuck Yeager took the Bell X-1 past Mach 1 over the Mojave. He had broken two ribs falling off a horse two nights earlier and did not tell the flight surgeon; a friend cut him a broom handle so he could close the hatch one-handed."
+  },
+  {
+   "month": 7,
+   "day": 27,
+   "year": 1949,
+   "title": "The jet age begins",
+   "text": "The de Havilland Comet flew for the first time — the world's first jet airliner. It halved journey times and flew above the weather. Its square windows later proved fatal, and every airliner window since has been rounded."
+  },
+  {
+   "month": 5,
+   "day": 2,
+   "year": 1952,
+   "title": "First jet airliner service",
+   "text": "BOAC flew the first commercial jet passenger service, London to Johannesburg. Passengers reported it was so smooth they could stand a coin on edge on the tray table."
+  },
+  {
+   "month": 4,
+   "day": 12,
+   "year": 1961,
+   "title": "First human in space",
+   "text": "Yuri Gagarin orbited the Earth once in 108 minutes. He ejected and parachuted down separately from his capsule, landing in a field where a farmer and her daughter asked whether he had come from space. He said yes."
+  },
+  {
+   "month": 2,
+   "day": 20,
+   "year": 1962,
+   "title": "Glenn orbits",
+   "text": "John Glenn became the first American to orbit Earth, three times in just under five hours. A faulty sensor suggested his heat shield was loose, so he re-entered with the retrorocket pack strapped on to hold it in place."
+  },
+  {
+   "month": 2,
+   "day": 9,
+   "year": 1969,
+   "title": "The 747 flies",
+   "text": "The first Boeing 747 took off from Everett. Boeing had bet the company on it — the factory to build it did not exist when the order was placed, so they built the largest building in the world first."
+  },
+  {
+   "month": 3,
+   "day": 2,
+   "year": 1969,
+   "title": "Concorde's first flight",
+   "text": "Concorde prototype 001 lifted off from Toulouse. Pilot André Turcat's verdict afterwards: 'the big bird flies'. Its nose drooped for landing because the delta wing had to sit so nose-high that pilots could not otherwise see the runway."
+  },
+  {
+   "month": 7,
+   "day": 20,
+   "year": 1969,
+   "title": "Apollo 11 lands",
+   "text": "The lunar module touched down with about 25 seconds of fuel remaining. The guidance computer had less memory than a modern greetings card and threw two alarms on the way down; a 24-year-old engineer in Houston recognised them as harmless and called go."
+  },
+  {
+   "month": 1,
+   "day": 21,
+   "year": 1976,
+   "title": "Concorde enters service",
+   "text": "British Airways and Air France began simultaneous supersonic service. Cruise was Mach 2 at 60,000 feet — high enough to see the curve of the Earth. The airframe grew about 8 inches longer in flight from friction heating."
+  },
+  {
+   "month": 12,
+   "day": 23,
+   "year": 1986,
+   "title": "Around the world, non-stop, unrefuelled",
+   "text": "Voyager landed at Edwards after 9 days circling the globe without refuelling. It took off with so much fuel that both wingtips scraped the runway for the entire 14,200-foot roll, and landed with 18 gallons left."
+  },
+  {
+   "month": 10,
+   "day": 24,
+   "year": 2003,
+   "title": "Concorde's last commercial flight",
+   "text": "Three Concordes landed at Heathrow within minutes of each other to end 27 years of supersonic passenger service. No airliner since has flown passengers faster than the speed of sound."
+  },
+  {
+   "month": 4,
+   "day": 27,
+   "year": 2005,
+   "title": "The A380 flies",
+   "text": "The largest passenger aircraft ever built made its first flight from Toulouse. Its wing is so large that it was certified to flex over 24 feet upward at the tip before breaking."
+  },
+  {
+   "month": 12,
+   "day": 15,
+   "year": 2009,
+   "title": "The 787 flies",
+   "text": "The first Boeing 787 flew — the first airliner with a mostly carbon-fibre fuselage. Because composites do not corrode, the cabin can be kept more humid and pressurised to a lower cabin altitude, which is why long 787 flights leave you less wrung out."
+  },
+  {
+   "month": 1,
+   "day": 15,
+   "year": 2009,
+   "title": "The Miracle on the Hudson",
+   "text": "US Airways 1549 hit a flock of Canada geese at 2,800 feet over the Bronx and lost both engines. Captain Sullenberger had 208 seconds to decide. All 155 aboard survived the ditching in the Hudson."
+  },
+  {
+   "month": 10,
+   "day": 4,
+   "year": 1957,
+   "title": "Sputnik",
+   "text": "The first artificial satellite went up — a polished 23-inch sphere with four antennas, beeping on a frequency amateur radio operators could pick up. Anyone with a shortwave set could hear the space age start."
+  },
+  {
+   "month": 11,
+   "day": 2,
+   "year": 2000,
+   "title": "The ISS is occupied",
+   "text": "The first crew moved into the International Space Station. It has been continuously inhabited ever since — nobody alive under a certain age has lived a day without humans in orbit."
+  },
+  {
+   "month": 5,
+   "day": 5,
+   "year": 1961,
+   "title": "The first American in space",
+   "text": "Alan Shepard flew a 15-minute suborbital hop. Held on the pad by delays for over three hours in a suit with no provision for it, he eventually radioed asking them to please light this candle."
+  },
+  {
+   "month": 8,
+   "day": 12,
+   "year": 1985,
+   "title": "A hard lesson in redundancy",
+   "text": "A rear pressure bulkhead failure destroyed the hydraulics on JAL 123. The accident led directly to today's requirement that hydraulic systems be routed apart from one another, so no single failure can take them all."
+  },
+  {
+   "month": 6,
+   "day": 12,
+   "year": 1994,
+   "title": "The 777 flies",
+   "text": "The Boeing 777 first flew — the first airliner designed entirely on computer, with no full-size physical mock-up. Its engines are wide enough in diameter to fit a 737's fuselage inside."
+  },
+  {
+   "month": 9,
+   "day": 30,
+   "year": 1968,
+   "title": "The 747 is unveiled",
+   "text": "Boeing rolled out the first 747 in front of the press and 26 airline customers. The upper deck 'hump' existed because Boeing expected supersonic aircraft to take over passenger flying and thought the 747 would end up hauling freight, loaded through a hinged nose."
+  },
+  {
+   "month": 3,
+   "day": 27,
+   "year": 1977,
+   "title": "The accident that rewrote the rules",
+   "text": "Two 747s collided on the runway at Tenerife in fog — the deadliest accident in aviation history. It produced standardised radio phraseology, the absolute rule that 'takeoff' is only ever said when clearing an aircraft to go, and the crew-resource-management training that lets a first officer overrule a captain."
+  },
+  {
+   "month": 11,
+   "day": 26,
+   "year": 2003,
+   "title": "Concorde's final flight",
+   "text": "Concorde G-BOAF flew from Heathrow to Filton, where it had been built, and landed for the last time. The type had carried passengers at twice the speed of sound for 27 years without ever being replaced."
+  }
+ ],
+ "hangarTalk": [
+  {
+   "title": "Why we fly this high",
+   "text": "Air up here is about a quarter as dense as at sea level, so drag is roughly a quarter as much. Jet engines also run more efficiently in cold thin air. Below about 30,000 feet an airliner burns fuel far faster; much above 40,000 the wing runs out of air to work with."
+  },
+  {
+   "title": "The hole in your window",
+   "text": "There are three panes. The little hole in the middle one lets cabin pressure reach the outer pane, so the outer pane carries the entire pressure load and the inner two are just there to protect it. The hole also stops the gap fogging up."
+  },
+  {
+   "title": "Why the wings flex",
+   "text": "The wings are supposed to bend — they are springs, and the bounce you see in turbulence is energy being absorbed rather than transmitted to you. In certification a wing is loaded until it snaps; the 787's went past 25 feet of upward deflection before it broke."
+  },
+  {
+   "title": "Why the food is bland",
+   "text": "At cruise cabin altitude plus dry air plus 85 decibels of background noise cuts your perception of sweet and salty by about 30%. Umami and tomato hold up better, which is why tomato juice tastes unusually good up here — airlines really do sell a lot of it."
+  },
+  {
+   "title": "Why the lights dim for landing",
+   "text": "So your eyes are already adjusted to the dark. If an evacuation is needed at night, nobody spends 30 seconds blinking. It is the same reason the window shades go up: the crew needs to see outside conditions and you need to see the exits."
+  },
+  {
+   "title": "Why the tray table has to be up",
+   "text": "A stowed tray table clears the path out of the row. In a rapid evacuation the target is 90 seconds for a full aircraft using half the exits — a single lowered table in a panicking row is worth real seconds."
+  },
+  {
+   "title": "The oxygen masks",
+   "text": "The masks give roughly 12 to 15 minutes of oxygen, which sounds short until you realise it is not meant to last the flight. It is meant to last the descent — the crew will get down to breathable altitude in a few minutes. The oxygen is produced by a chemical reaction, which is why the mask may smell burnt."
+  },
+  {
+   "title": "That black triangle on the wall",
+   "text": "Look for a small black triangle above a window a few rows from the wing. It marks the seat with the best view of the wing and slats, so the crew can check them from inside. Airlines call it the William Shatner seat, after the Twilight Zone episode."
+  },
+  {
+   "title": "Runway numbers",
+   "text": "A runway's number is its magnetic heading divided by ten. Runway 27 points at 270 degrees — due west. As the Earth's magnetic field drifts, airports occasionally have to repaint their runway numbers."
+  },
+  {
+   "title": "The black box is orange",
+   "text": "Bright orange, with retroreflective tape, because the point is to find it. It survives 3,400 g of impact, 1,100°C for an hour, and 20,000 feet of seawater pressure. The name comes from either the charred boxes of early recorders or simply engineering slang."
+  },
+  {
+   "title": "Why pilots eat different meals",
+   "text": "Many airlines require the captain and first officer to eat different meals, prepared separately, so a single bad batch cannot incapacitate both. Some go further and stagger when they eat."
+  },
+  {
+   "title": "Lightning",
+   "text": "An airliner is struck roughly once a year on average. The fuselage is a Faraday cage; the current runs over the skin and exits through static wicks on the trailing edges. Passengers usually report a flash and a bang and nothing else."
+  },
+  {
+   "title": "Contrails",
+   "text": "Engine exhaust is hot and full of water vapour. Dumped into air at -55°C it freezes almost instantly into ice crystals. Whether the trail vanishes in seconds or spreads into cirrus depends entirely on how humid that layer of air already is — which is why pilots have used contrails as a weather cue for decades."
+  },
+  {
+   "title": "The jet stream",
+   "text": "A ribbon of wind 5 to 7 miles up, often 100 to 200 mph, sometimes far more. It is why New York to London is around an hour shorter than the return. Flight planners will happily fly a longer ground track to sit in it."
+  },
+  {
+   "title": "Why the cabin is so dry",
+   "text": "The air is drawn from outside, where there is almost no moisture at all. Cabin humidity typically runs 10 to 20% — drier than most deserts. That is most of why you land feeling like a raisin. Drink the water."
+  },
+  {
+   "title": "Wake turbulence",
+   "text": "Every wing sheds two horizontal tornadoes off its tips that persist for minutes and sink about 500 feet. It is why ATC spaces a small aircraft several miles behind a heavy one, and why you sometimes hold short of the runway for a surprisingly long time."
+  },
+  {
+   "title": "The APU",
+   "text": "That whine before the engines start is the auxiliary power unit — a small jet engine in the tail that exists only to generate electricity and air. It is what lets the aircraft run its own lights and air conditioning at the gate, and it can restart the main engines in flight."
+  },
+  {
+   "title": "Autoland",
+   "text": "Airliners can land themselves in effectively zero visibility, and in the worst fog they must. It needs a specially surveyed runway, a certified aircraft and a current crew. Pilots hand-fly most landings anyway — partly for practice, partly because a human still greases it better."
+  },
+  {
+   "title": "Why the engines can eat a bird",
+   "text": "Before certification, engines are fired with birds — up to eight-pound carcasses — at full takeoff power, and have to either keep running or shut down without throwing debris. They are also tested by deliberately snapping a fan blade at full speed to prove the casing contains it."
+  },
+  {
+   "title": "Blue ice",
+   "text": "The lavatory tank is sealed and can only be emptied on the ground by a ground crew connection. Nothing is ever released in flight. The rare blue ice incidents come from external leaks around the service panel seal, not from flushing."
+  },
+  {
+   "title": "That fog from the vents",
+   "text": "On a humid day at the gate, the air conditioning packs chill moist cabin air below its dew point and it briefly condenses into visible mist. It is a cloud forming indoors — completely harmless, and it clears as soon as the system catches up."
+  },
+  {
+   "title": "Why we board from the left",
+   "text": "It is inherited from ships. Boats were steered by a board on the right side — the steer-board, or starboard — so they moored their left side to the dock. That is the port side, and aircraft simply kept the convention."
+  },
+  {
+   "title": "ETOPS",
+   "text": "Extended-range Twin-engine Operations: the rules that let a two-engine airliner fly oceans. An ETOPS-180 aircraft may never be more than 180 minutes' flying on one engine from a suitable runway. Pilots have their own expansion: Engines Turn Or Passengers Swim."
+  },
+  {
+   "title": "The floor lighting",
+   "text": "Escape path lights are mounted at floor level because smoke fills a cabin from the ceiling down. The clear air, and the visible markings, will be at your knees."
+  },
+  {
+   "title": "That 'dropping' feeling",
+   "text": "The aircraft almost never drops far. In turbulence the change is usually a matter of feet, but your inner ear reports acceleration rather than distance, so a brief change in load feels dramatic. The wings are certified to about 2.5 g positive; ordinary turbulence rarely exceeds 1.3."
+  },
+  {
+   "title": "Why the seat back has to be up",
+   "text": "It is the row behind you that matters. An upright seat back preserves the space the person behind needs to brace, and keeps the aisle path out of the row clear."
+  },
+  {
+   "title": "Winglets",
+   "text": "Those upturned tips recover energy from the vortex spilling off the wing end, cutting drag by a few percent. A few percent of an airline's fuel bill is an enormous amount of money, which is why they appeared on nearly everything within a decade."
+  },
+  {
+   "title": "Why you sometimes hold before takeoff",
+   "text": "You may be waiting on a departure slot assigned by a flow-control centre hundreds of miles away, sequencing your arrival into congested airspace. The delay is happening on the ground because burning fuel in a holding pattern costs far more than burning it on a taxiway."
+  },
+  {
+   "title": "Cosmic radiation",
+   "text": "At cruise you are above most of the atmosphere's shielding. A transatlantic flight gives you roughly the dose of a dental X-ray. Airline crews are among the most radiation-exposed occupational groups, and polar flights are rerouted during solar storms."
+  },
+  {
+   "title": "The rudder pedals",
+   "text": "Pilots barely touch the rudder in normal flight — turns are made by banking. The rudder earns its keep in crosswind landings and, critically, in keeping the aircraft straight if an engine quits on takeoff. That single case sizes the entire tail."
+  },
+  {
+   "title": "Why the aisle is where it is",
+   "text": "Cabin width is driven by the fuselage diameter, which is driven by how much pressure the skin has to hold. A 737 and an A320 differ by about seven inches of cabin width — which is the entire argument about whether an 18-inch seat fits."
+  },
+  {
+   "title": "The two-person rule",
+   "text": "After 2015 many airlines required two crew on the flight deck at all times, so a cabin crew member steps in when a pilot leaves. Some carriers have since dropped it, judging that the extra door openings carried their own risk."
+  },
+  {
+   "title": "What the chimes mean",
+   "text": "They're crew intercom, not announcements. A single low chime is usually a passenger call; a high-low is often crew-to-crew. Patterns vary by airline, so passengers decoding them are mostly guessing."
+  },
+  {
+   "title": "Why you taxi on one engine",
+   "text": "Many airlines shut down an engine after landing and taxi in on the other. A widebody burns roughly a tonne of fuel an hour just idling, and some airports have taxi times over twenty minutes."
+  },
+  {
+   "title": "The flaps",
+   "text": "Flaps let a wing fly slowly without stalling by increasing camber and area. They're why an airliner can approach at 140 knots instead of 200 — and why the runway can be two miles long instead of four."
+  },
+  {
+   "title": "Why they announce the flying time",
+   "text": "It's block time, gate to gate, not wheels to wheels. Airlines pad it — schedules are quoted with taxi, holding and typical delays baked in, which is how a flight can be 'early' after leaving late."
+  },
+  {
+   "title": "The overhead bin arms race",
+   "text": "Modern pivot bins hold bags on their side rather than flat, taking six bags per bin instead of four. Retrofitting them across a fleet costs millions and is still cheaper than the delays from gate-checking."
+  },
+  {
+   "title": "Why the engines hang below the wing",
+   "text": "Podded engines on pylons are easier to maintain, keep fires away from the wing structure, and let each engine be replaced independently. They also mean an engine failure produces a strong yaw — which is what sizes the rudder."
+  },
+  {
+   "title": "Cargo below you",
+   "text": "You're sitting on top of a hold that's pressurised and heated, because it often carries animals. Some of what's down there is human remains, and crews are trained to handle those with a specific protocol."
+  },
+  {
+   "title": "Wingtip navigation lights",
+   "text": "Red on the left, green on the right, white at the tail — inherited directly from maritime rules. From the ground you can tell which way an aircraft is heading purely by which colour you see."
+  },
+  {
+   "title": "Why the seatbelt sign stays on",
+   "text": "Clear-air turbulence doesn't show on weather radar and gives no visual warning. It's associated with jet-stream shear, and it's the reason crews now keep the sign on far more than they used to."
+  },
+  {
+   "title": "The runway lights",
+   "text": "Approach lighting runs white, then red bars at the threshold, then green. Runway edge lights turn amber in the last 2,000 feet — a warning that you're running out of concrete."
+  },
+  {
+   "title": "How much fuel is aboard",
+   "text": "Regulations require enough to reach the destination, then the alternate airport, then hold 30 minutes, plus contingency. On a transatlantic that's typically an extra two hours' worth — around 10 tonnes of insurance."
+  },
+  {
+   "title": "Why the wings hold the fuel",
+   "text": "Putting weight in the wings counteracts the lift bending them upward, which lets the spar be lighter. It also keeps the fuel away from the cabin, and the cold air at altitude helps cool it."
+  },
+  {
+   "title": "The stall warning",
+   "text": "Some aircraft shake the control column deliberately — a stick shaker — because a physical, unmistakable warning cuts through in a way an alarm tone doesn't. Others push the nose down for you."
+  },
+  {
+   "title": "Airline seat pitch",
+   "text": "Pitch is the distance between the same point on two rows, not legroom. Thinner seatbacks let airlines cut pitch while claiming the same knee room, which is technically true and rarely feels like it."
+  },
+  {
+   "title": "Why some flights go north to go west",
+   "text": "On a globe the shortest path between two mid-latitude cities arcs toward the pole. London to Los Angeles crosses Greenland. It looks absurd on a flat map and is simply the short way."
+  },
+  {
+   "title": "Volcanic ash",
+   "text": "Ash is invisible to weather radar and melts inside a hot engine, then re-solidifies on the turbine blades. In 1982 a 747 lost all four engines over Indonesia and glided 16 minutes before restarting three."
+  },
+  {
+   "title": "The go-around",
+   "text": "An aborted landing is a normal, trained manoeuvre, not an emergency. Crews fly them in the simulator constantly. If it happens, the aircraft climbs away hard — that's the procedure working."
+  },
+  {
+   "title": "Why the cabin dims on takeoff too",
+   "text": "Same reason as landing: takeoff and landing are when most survivable accidents happen, so crews want everyone's eyes already adapted and the exits visible."
+  },
+  {
+   "title": "Bleed air",
+   "text": "Most airliners take cabin air from the engine compressors — hot, high-pressure air that's cooled and fed in. The 787 broke with that and uses electric compressors instead, which is why its cabin air is less prone to fume events."
+  },
+  {
+   "title": "The transponder",
+   "text": "Every aircraft squawks a four-digit code so controllers can identify it on radar. 7500 means hijack, 7600 radio failure, 7700 general emergency. Crews are careful not to fat-finger those."
+  },
+  {
+   "title": "Why you can't open the door in flight",
+   "text": "Airliner doors are plug doors — they're larger than their frame and open inward first. At cruise there's roughly eight tonnes of pressure holding it shut. It is not physically possible."
+  },
+  {
+   "title": "Holding patterns",
+   "text": "A standard hold is a racetrack with one-minute legs, flown at a published fix. Aircraft stack vertically at 1,000-foot intervals, and the bottom one lands next — which is why holding feels like descending a staircase."
+  },
+  {
+   "title": "The wet runway",
+   "text": "Landing on a wet runway can need 30 to 50% more distance. Grooved concrete channels water away to prevent hydroplaning — those thin cuts across the runway are doing serious work."
+  },
+  {
+   "title": "Why aircraft are white",
+   "text": "White reflects sunlight and keeps the cabin cooler on the ground, hides very little but shows cracks and leaks clearly on inspection, and paint is heavy — a full livery on a 747 can weigh over 250 kg."
+  },
+  {
+   "title": "The minimum equipment list",
+   "text": "Aircraft legally fly with things broken. The MEL specifies exactly what may be inoperative, for how long, and with what workaround — a coffee maker for days, a hydraulic pump for approximately no time at all."
+  },
+  {
+   "title": "Contrail shadows",
+   "text": "On a low-sun day a contrail can cast a visible shadow onto the cloud deck below. If the sun is behind you and conditions are right, you may also spot a glory — a circular rainbow around the aircraft's shadow."
+  },
+  {
+   "title": "Why the tray table is aluminium honeycomb",
+   "text": "Same structure as the floor panels and cargo liners: two thin skins bonded to a honeycomb core. Enormously stiff for its weight, which is the entire preoccupation of aircraft design."
+  },
+  {
+   "title": "The 90-second rule",
+   "text": "An airliner must be evacuable in 90 seconds with half the exits blocked, demonstrated with a real mixed-age crowd in a darkened cabin. It's why exit rows have rules and why they ask if you're willing and able."
+  }
+ ]
+}
